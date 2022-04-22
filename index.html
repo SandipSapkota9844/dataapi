@@ -11,7 +11,37 @@
 <body>
     <a href="district.json"> <input type="button" value="District"></a>
     <a href="municipality.json"> <input type="button" value="Municipality"></a>
+    <h3>You can try it by clicking fetch!💚</h3>
+    <button id="btn">Fetch</button>
+    <div id="content1">
 
+    </div>
 </body>
+<script>
+    let btn = document.getElementById("btn");
+    btn.addEventListener("click", Data);
+    url1 = "https://sandipsapkota9844.github.io/dataapi/municipality.json";
+
+    function Data() {
+        fetch(url1).then((response) => {
+            return response.json();
+        }).then((sandy) => {
+            console.log(sandy);
+            let output1 = '';
+            sandy.map((item1) => {
+                output1 += `
+            <ul>
+                <li> Municipality Id : ${item1.municipality_id}</li>
+                <li> Municipality Name : ${item1.name}</li>
+                <li> Alternative name :   ${item1.alt_name}</li>
+                
+               
+            </ul>
+            `;
+            });
+            document.getElementById("content1").innerHTML = output1;
+        });
+    }
+</script>
 
 </html>
