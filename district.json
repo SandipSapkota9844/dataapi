@@ -1,0 +1,848 @@
+[{
+        "district_id": 1,
+        "name": "Bhojpur",
+        "alt_name": "भोजपुर",
+        "longitude": "87.0524",
+        "latitude": "27.1780",
+        "headquarter": {
+            "name": "Bhojpur",
+            "alt_name": "भोजपुर"
+        }
+    },
+    {
+        "district_id": 2,
+        "name": "Dhankuta",
+        "alt_name": "धनकुटा",
+        "longitude": "87.3215",
+        "latitude": "26.9835",
+        "headquarter": {
+            "name": "Dhankuta",
+            "alt_name": "धनकुटा"
+        }
+    },
+    {
+        "district_id": 3,
+        "name": "Ilam",
+        "alt_name": "इलाम",
+        "longitude": " 87.9237",
+        "latitude": "26.9112",
+        "headquarter": {
+            "name": "Ilam",
+            "alt_name": "इलाम"
+        }
+    },
+    {
+        "district_id": 4,
+        "name": "Jhapa",
+        "alt_name": "झापा",
+        "longitude": "87.8942",
+        "latitude": "26.5455",
+        "headquarter": {
+            "name": "Jhapa",
+            "alt_name": "झापा"
+        }
+    },
+    {
+        "district_id": 5,
+        "name": "Khotang",
+        "alt_name": "खोटाँग",
+        "longitude": "86.7819",
+        "latitude": "27.1838",
+        "headquarter": {
+            "name": "Khotang",
+            "alt_name": "खोटाँग"
+        }
+    },
+    {
+        "district_id": 6,
+        "name": "Morang",
+        "alt_name": "मोरंग",
+        "longitude": "87.4604",
+        "latitude": "26.6799",
+        "headquarter": {
+            "name": "Morang",
+            "alt_name": "मोरंग"
+        }
+    },
+    {
+        "district_id": 7,
+        "name": "Okhaldhunga",
+        "alt_name": "ओखलढुंगा",
+        "longitude": "86.3782",
+        "latitude": "27.3619",
+        "headquarter": {
+            "name": "Okhaldhunga",
+            "alt_name": "ओखलढुंगा"
+        }
+    },
+    {
+        "district_id": 8,
+        "name": "Panchthar",
+        "alt_name": "पांचथर",
+        "longitude": "87.8157",
+        "latitude": "27.1096",
+        "headquarter": {
+            "name": "Panchthar",
+            "alt_name": "पांचथर"
+        }
+    },
+    {
+        "district_id": 9,
+        "name": "Sankhuwasabha",
+        "alt_name": "संखुवासभा",
+        "longitude": "87.3016",
+        "latitude": "27.6174",
+        "headquarter": {
+            "name": "Sankhuwasabha",
+            "alt_name": "संखुवासभा"
+        }
+    },
+    {
+        "district_id": 10,
+        "name": "Solukhumbu",
+        "alt_name": "सोलुखुम्बू",
+        "longitude": "86.7416",
+        "latitude": "27.6992",
+        "headquarter": {
+            "name": "Solukhumbu",
+            "alt_name": "सोलुखुम्बू"
+        }
+    },
+    {
+        "district_id": 11,
+        "name": "Sunsari",
+        "alt_name": "सुनसरी",
+        "longitude": "87.1822",
+        "latitude": "26.6276",
+        "headquarter": {
+            "name": "Sunsari",
+            "alt_name": "सुनसरी"
+        }
+    },
+    {
+        "district_id": 12,
+        "name": "Taplejung",
+        "alt_name": "ताप्लेजुंग",
+        "longitude": "87.7763",
+        "latitude": "27.6257",
+        "headquarter": {
+            "name": "Taplejung",
+            "alt_name": "ताप्लेजुंग"
+        }
+    },
+    {
+        "district_id": 13,
+        "name": "Terhathum",
+        "alt_name": "तेह्रथुम",
+        "longitude": "87.5791",
+        "latitude": "27.1998",
+        "headquarter": {
+            "name": "Terhathum",
+            "alt_name": "तेह्रथुम"
+        }
+    },
+    {
+        "district_id": 14,
+        "name": "Udayapur",
+        "alt_name": "उदयपुर",
+        "longitude": "86.6611",
+        "latitude": "26.8518",
+        "headquarter": {
+            "name": "Udayapur",
+            "alt_name": "उदयपुर"
+        }
+    },
+    {
+        "district_id": 15,
+        "name": "Saptari",
+        "alt_name": "सप्तरी",
+        "longitude": "86.7819",
+        "latitude": "26.6191",
+        "headquarter": {
+            "name": "Saptari",
+            "alt_name": "सप्तरी"
+        }
+    },
+    {
+        "district_id": 16,
+        "name": "Siraha",
+        "alt_name": "सिराहा",
+        "longitude": "86.1853",
+        "latitude": "26.6397",
+        "headquarter": {
+            "name": "Siraha",
+            "alt_name": "सिराहा"
+        }
+    },
+    {
+        "district_id": 17,
+        "name": "Dhanusha",
+        "alt_name": "धनुषा",
+        "longitude": " 86.0122",
+        "latitude": "26.8350",
+        "headquarter": {
+            "name": "Dhanusha",
+            "alt_name": "धनुषा"
+        }
+    },
+    {
+        "district_id": 18,
+        "name": "Mahottari",
+        "alt_name": "महोत्तरी",
+        "longitude": "85.8077",
+        "latitude": "26.8762",
+        "headquarter": {
+            "name": "Mahottari",
+            "alt_name": "महोत्तरी"
+        }
+    },
+    {
+        "district_id": 19,
+        "name": "Sarlahi",
+        "alt_name": "सर्लाही",
+        "longitude": "85.5612",
+        "latitude": "26.9627",
+        "headquarter": {
+            "name": "Sarlahi",
+            "alt_name": "सर्लाही"
+        }
+    },
+    {
+        "district_id": 20,
+        "name": "Bara",
+        "alt_name": "बारा",
+        "longitude": "85.0649",
+        "latitude": "27.1341",
+        "headquarter": {
+            "name": "Bara",
+            "alt_name": "बारा"
+        }
+    },
+    {
+        "district_id": 21,
+        "name": "Parsa",
+        "alt_name": "पर्सा",
+        "longitude": "84.8151",
+        "latitude": "27.2190",
+        "headquarter": {
+            "name": "Parsa",
+            "alt_name": "पर्सा"
+        }
+    },
+    {
+        "district_id": 22,
+        "name": "Rautahat",
+        "alt_name": "रौतहट",
+        "longitude": "85.3136",
+        "latitude": "26.9547",
+        "headquarter": {
+            "name": "Rautahat",
+            "alt_name": "रौतहट"
+        }
+    },
+    {
+        "district_id": 23,
+        "name": "Sindhuli",
+        "alt_name": "सिन्धुली",
+        "longitude": "85.9713",
+        "latitude": "27.2569",
+        "headquarter": {
+            "name": "Sindhuli",
+            "alt_name": "सिन्धुली"
+        }
+    },
+    {
+        "district_id": 24,
+        "name": "Ramechhap",
+        "alt_name": "रामेछाप",
+        "longitude": "86.1039",
+        "latitude": "27.3193",
+        "headquarter": {
+            "name": "Ramechhap",
+            "alt_name": "रामेछाप"
+        }
+    },
+    {
+        "district_id": 25,
+        "name": "Dolakha",
+        "alt_name": "दोलखा",
+        "longitude": "86.1752",
+        "latitude": "27.7784",
+        "headquarter": {
+            "name": "Dolakha",
+            "alt_name": "दोलखा"
+        }
+    },
+    {
+        "district_id": 26,
+        "name": "Bhaktapur",
+        "alt_name": "भक्तपुर",
+        "longitude": "85.4298",
+        "latitude": "27.6710",
+        "headquarter": {
+            "name": "Bhaktapur",
+            "alt_name": "भक्तपुर"
+        }
+    },
+    {
+        "district_id": 27,
+        "name": "Dhading",
+        "alt_name": "धादिङ",
+        "longitude": "85.8985",
+        "latitude": "27.9711",
+        "headquarter": {
+            "name": "Dhading",
+            "alt_name": "धादिङ"
+        }
+    },
+    {
+        "district_id": 28,
+        "name": "Kathmandu",
+        "alt_name": "काठमाडौँ",
+        "longitude": "85.3240",
+        "latitude": "27.7172",
+        "headquarter": {
+            "name": "Kathmandu",
+            "alt_name": "काठमाडौँ"
+        }
+    },
+    {
+        "district_id": 29,
+        "name": "Kavrepalanchowk",
+        "alt_name": "काभ्रेपलाञ्चोक",
+        "longitude": "85.6435",
+        "latitude": "27.5285",
+        "headquarter": {
+            "name": "Kavrepalanchowk",
+            "alt_name": "काभ्रेपलाञ्चोक"
+        }
+    },
+    {
+        "district_id": 30,
+        "name": "Lalitpur",
+        "alt_name": "ललितपुर",
+        "longitude": "85.3247",
+        "latitude": "27.6588",
+        "headquarter": {
+            "name": "Lalitpur",
+            "alt_name": "ललितपुर"
+        }
+    },
+    {
+        "district_id": 31,
+        "name": "Nuwakot",
+        "alt_name": "नुवाकोट",
+        "longitude": "85.2308",
+        "latitude": "27.8895",
+        "headquarter": {
+            "name": "Nuwakot",
+            "alt_name": "नुवाकोट"
+        }
+    },
+    {
+        "district_id": 32,
+        "name": "Rasuwa",
+        "alt_name": "रसुवा",
+        "longitude": "85.3963",
+        "latitude": "27.1755",
+        "headquarter": {
+            "name": "Rasuwa",
+            "alt_name": "रसुवा"
+        }
+    },
+    {
+        "district_id": 33,
+        "name": "Sindhupalchok",
+        "alt_name": "सिन्धुपाल्चोक",
+        "longitude": "85.6846",
+        "latitude": "27.9512",
+        "headquarter": {
+            "name": "Sindhupalchok",
+            "alt_name": "सिन्धुपाल्चोक"
+        }
+    },
+    {
+        "district_id": 34,
+        "name": "Chitwan",
+        "alt_name": "चितवन",
+        "longitude": "84.3542",
+        "latitude": "27.5291",
+        "headquarter": {
+            "name": "Chitwan",
+            "alt_name": "चितवन"
+        }
+    },
+    {
+        "district_id": 35,
+        "name": "Makawanpur",
+        "alt_name": "मकवानपुर",
+        "longitude": "85.0233",
+        "latitude": "27.5546",
+        "headquarter": {
+            "name": "Makawanpur",
+            "alt_name": "मकवानपुर"
+        }
+    },
+    {
+        "district_id": 36,
+        "name": "Baglung",
+        "alt_name": "बागलुङ",
+        "longitude": "83.5816",
+        "latitude": "28.2774",
+        "headquarter": {
+            "name": "Baglung",
+            "alt_name": "बागलुङ"
+        }
+    },
+    {
+        "district_id": 37,
+        "name": "Gorkha",
+        "alt_name": "गोरखा",
+        "longitude": "84.8568",
+        "latitude": "28.2964",
+        "headquarter": {
+            "name": "Gorkha",
+            "alt_name": "गोरखा"
+        }
+    },
+    {
+        "district_id": 38,
+        "name": "Kaski",
+        "alt_name": "कास्की",
+        "longitude": "83.9856",
+        "latitude": "28.2096",
+        "headquarter": {
+            "name": "Kaski",
+            "alt_name": "कास्की"
+        }
+    },
+    {
+        "district_id": 39,
+        "name": "Lamjung",
+        "alt_name": "लमजुङ",
+        "longitude": "84.3542",
+        "latitude": "28.2765",
+        "headquarter": {
+            "name": "Lamjung",
+            "alt_name": "लमजुङ"
+        }
+    },
+    {
+        "district_id": 40,
+        "name": "Manang",
+        "alt_name": "मनाङ",
+        "longitude": "84.0167",
+        "latitude": "28.6667",
+        "headquarter": {
+            "name": "Manang",
+            "alt_name": "मनाङ"
+        }
+    },
+    {
+        "district_id": 41,
+        "name": "Mustang",
+        "alt_name": "मुस्ताङ",
+        "longitude": "83.8473",
+        "latitude": "28.9985",
+        "headquarter": {
+            "name": "Mustang",
+            "alt_name": "मुस्ताङ"
+        }
+    },
+    {
+        "district_id": 42,
+        "name": "Myagdi",
+        "alt_name": "म्याग्दी",
+        "longitude": "83.3362",
+        "latitude": "28.6029",
+        "headquarter": {
+            "name": "Myagdi",
+            "alt_name": "म्याग्दी"
+        }
+    },
+    {
+        "district_id": 43,
+        "name": "Nawalpur",
+        "alt_name": "नवलपुर",
+        "longitude": "85.6281",
+        "latitude": "27.8149",
+        "headquarter": {
+            "name": "Nawalpur",
+            "alt_name": "नवलपुर"
+        }
+    },
+    {
+        "district_id": 44,
+        "name": "Parbat",
+        "alt_name": "पर्वत",
+        "longitude": "83.6987",
+        "latitude": "28.2246",
+        "headquarter": {
+            "name": "Parbat",
+            "alt_name": "पर्वत"
+        }
+    },
+    {
+        "district_id": 45,
+        "name": "Syangja",
+        "alt_name": "स्याङग्जा",
+        "longitude": "83.8049",
+        "latitude": "28.0197",
+        "headquarter": {
+            "name": "Syangja",
+            "alt_name": "स्याङग्जा"
+        }
+    },
+    {
+        "district_id": 46,
+        "name": "Tanahun",
+        "alt_name": "तनहुँ",
+        "longitude": "84.2279",
+        "latitude": "27.9447",
+        "headquarter": {
+            "name": "Tanahun",
+            "alt_name": "तनहुँ"
+        }
+    },
+    {
+        "district_id": 47,
+        "name": "Kapilvastu",
+        "alt_name": "कपिलवस्तु",
+        "longitude": "83.0469",
+        "latitude": "27.5518",
+        "headquarter": {
+            "name": "Kapilvastu",
+            "alt_name": "कपिलवस्तु"
+        }
+    },
+    {
+        "district_id": 48,
+        "name": "Parasi",
+        "alt_name": "परासी",
+        "longitude": "83.40",
+        "latitude": "27.32",
+        "headquarter": {
+            "name": "Parasi",
+            "alt_name": "परासी"
+        }
+    },
+    {
+        "district_id": 49,
+        "name": "Rupandehi",
+        "alt_name": "रुपन्देही",
+        "longitude": "83.3789",
+        "latitude": "27.5330",
+        "headquarter": {
+            "name": "Rupandehi",
+            "alt_name": "रुपन्देही"
+        }
+    },
+    {
+        "district_id": 50,
+        "name": "Arghakhanchi",
+        "alt_name": "अर्घाखाँची",
+        "longitude": "83.1220",
+        "latitude": "27.8940",
+        "headquarter": {
+            "name": "Arghakhanchi",
+            "alt_name": "अर्घाखाँची"
+        }
+    },
+    {
+        "district_id": 51,
+        "name": "Gulmi",
+        "alt_name": "गुल्मी",
+        "longitude": "83.2934",
+        "latitude": "28.0889",
+        "headquarter": {
+            "name": "Gulmi",
+            "alt_name": "गुल्मी"
+        }
+    },
+    {
+        "district_id": 52,
+        "name": "Palpa",
+        "alt_name": "पाल्पा",
+        "longitude": "83.6348",
+        "latitude": "27.8253",
+        "headquarter": {
+            "name": "Palpa",
+            "alt_name": "पाल्पा"
+        }
+    },
+    {
+        "district_id": 53,
+        "name": "Dang",
+        "alt_name": "दाङ",
+        "longitude": "82.4753",
+        "latitude": "28.0000",
+        "headquarter": {
+            "name": "Dang",
+            "alt_name": "दाङ"
+        }
+    },
+    {
+        "district_id": 54,
+        "name": "Pyuthan",
+        "alt_name": "प्युठान",
+        "longitude": "82.8533",
+        "latitude": "28.1017",
+        "headquarter": {
+            "name": "Pyuthan",
+            "alt_name": "प्युठान"
+        }
+    },
+    {
+        "district_id": 55,
+        "name": "Rolpa",
+        "alt_name": "रोल्पा",
+        "longitude": "82.6483",
+        "latitude": "28.3816",
+        "headquarter": {
+            "name": "Rolpa",
+            "alt_name": "रोल्पा"
+        }
+    },
+    {
+        "district_id": 56,
+        "name": "Eastern Rukum",
+        "alt_name": "पूर्वी रूकुम",
+        "longitude": "82.4319",
+        "latitude": "28.6947",
+        "headquarter": {
+            "name": "Eastern Rukum",
+            "alt_name": "पूर्वी रूकुम"
+        }
+    },
+    {
+        "district_id": 57,
+        "name": "Banke",
+        "alt_name": "बाँके",
+        "longitude": "81.8224",
+        "latitude": "28.1022",
+        "headquarter": {
+            "name": "Banke",
+            "alt_name": "बाँके"
+        }
+    },
+    {
+        "district_id": 58,
+        "name": "Bardiya",
+        "alt_name": "बर्दिया",
+        "longitude": "81.4279",
+        "latitude": "28.3102",
+        "headquarter": {
+            "name": "Bardiya",
+            "alt_name": "बर्दिया"
+        }
+    },
+    {
+        "district_id": 59,
+        "name": "Western Rukum",
+        "alt_name": "पश्चिमी रूकुम",
+        "longitude": "82.4319",
+        "latitude": "28.6947",
+        "headquarter": {
+            "name": "Western Rukum",
+            "alt_name": "पश्चिमी रूकुम"
+        }
+    },
+    {
+        "district_id": 60,
+        "name": "Salyan",
+        "alt_name": "सल्यान",
+        "longitude": "82.1714",
+        "latitude": "28.4014",
+        "headquarter": {
+            "name": "Salyan",
+            "alt_name": "सल्यान"
+        }
+    },
+    {
+        "district_id": 61,
+        "name": "Dolpa",
+        "alt_name": "डोल्पा",
+        "longitude": "83.0791",
+        "latitude": "29.0539",
+        "headquarter": {
+            "name": "Dolpa",
+            "alt_name": "डोल्पा"
+        }
+    },
+    {
+        "district_id": 62,
+        "name": "Humla",
+        "alt_name": "हुम्ला",
+        "longitude": "81.9535",
+        "latitude": "30.0052",
+        "headquarter": {
+            "name": "Humla",
+            "alt_name": "हुम्ला"
+        }
+    },
+    {
+        "district_id": 63,
+        "name": "Jumla",
+        "alt_name": "जुम्ला",
+        "longitude": "82.1659",
+        "latitude": "29.2522",
+        "headquarter": {
+            "name": "Jumla",
+            "alt_name": "जुम्ला"
+        }
+    },
+    {
+        "district_id": 64,
+        "name": "Kalikot",
+        "alt_name": "कालिकोट",
+        "longitude": "81.7349",
+        "latitude": "29.2089",
+        "headquarter": {
+            "name": "Kalikot",
+            "alt_name": "कालिकोट"
+        }
+    },
+    {
+        "district_id": 65,
+        "name": "Mugu",
+        "alt_name": "मुगु",
+        "longitude": "82.5186",
+        "latitude": "29.8086",
+        "headquarter": {
+            "name": "Mugu",
+            "alt_name": "मुगु"
+        }
+    },
+    {
+        "district_id": 66,
+        "name": "Surkhet",
+        "alt_name": "सुर्खेत",
+        "longitude": "81.7787",
+        "latitude": "28.5175",
+        "headquarter": {
+            "name": "Surkhet",
+            "alt_name": "सुर्खेत"
+        }
+    },
+    {
+        "district_id": 67,
+        "name": "Dailekh",
+        "alt_name": "दैलेख",
+        "longitude": "81.6473",
+        "latitude": "28.9262",
+        "headquarter": {
+            "name": "Dailekh",
+            "alt_name": "दैलेख"
+        }
+    },
+    {
+        "district_id": 68,
+        "name": "Jajarkot",
+        "alt_name": "जाजरकोट",
+        "longitude": "82.2040",
+        "latitude": "28.7396",
+        "headquarter": {
+            "name": "Jajarkot",
+            "alt_name": "जाजरकोट"
+        }
+    },
+    {
+        "district_id": 69,
+        "name": "Kailali",
+        "alt_name": "कैलाली",
+        "longitude": "80.8987",
+        "latitude": "28.8314",
+        "headquarter": {
+            "name": "Kailali",
+            "alt_name": "कैलाली"
+        }
+    },
+    {
+        "district_id": 70,
+        "name": "Achham",
+        "alt_name": "अछाम",
+        "longitude": "81.2519",
+        "latitude": "29.0396",
+        "headquarter": {
+            "name": "Achham",
+            "alt_name": "अछाम"
+        }
+    },
+    {
+        "district_id": 71,
+        "name": "Doti",
+        "alt_name": "डोटी",
+        "longitude": "80.8987",
+        "latitude": "29.2006",
+        "headquarter": {
+            "name": "Doti",
+            "alt_name": "डोटी"
+        }
+    },
+    {
+        "district_id": 72,
+        "name": "Bajhang",
+        "alt_name": "बझाङ",
+        "longitude": "81.2519",
+        "latitude": "29.7767",
+        "headquarter": {
+            "name": "Bajhang",
+            "alt_name": "बझाङ"
+        }
+    },
+    {
+        "district_id": 73,
+        "name": "Bajura",
+        "alt_name": "बाजुरा",
+        "longitude": "81.4279",
+        "latitude": "29.4201",
+        "headquarter": {
+            "name": "Bajura",
+            "alt_name": "बाजुरा"
+        }
+    },
+    {
+        "district_id": 74,
+        "name": "Kanchanpur",
+        "alt_name": "कंचनपुर",
+        "longitude": "80.3213",
+        "latitude": "28.8372",
+        "headquarter": {
+            "name": "Kanchanpur",
+            "alt_name": "कंचनपुर"
+        }
+    },
+    {
+        "district_id": 75,
+        "name": "Dadeldhura",
+        "alt_name": "डडेलधुरा",
+        "longitude": "80.4994",
+        "latitude": "29.2188",
+        "headquarter": {
+            "name": "Dadeldhura",
+            "alt_name": "डडेलधुरा"
+        }
+    },
+    {
+        "district_id": 76,
+        "name": "Baitadi",
+        "alt_name": "बैतडी",
+        "longitude": "80.4688",
+        "latitude": "29.5186",
+        "headquarter": {
+            "name": "Baitadi",
+            "alt_name": "बैतडी"
+        }
+    },
+    {
+        "district_id": 77,
+        "name": "Darchula",
+        "alt_name": "दार्चुला",
+        "longitude": "80.8987",
+        "latitude": "29.9363",
+        "headquarter": {
+            "name": "Darchula",
+            "alt_name": "दार्चुला"
+        }
+    }
+]

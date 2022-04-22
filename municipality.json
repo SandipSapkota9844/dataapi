@@ -1,0 +1,3786 @@
+[{
+        "municipality_id": 1,
+        "name": "Aamargadhi",
+        "alt_name": "अमरगढी"
+    },
+    {
+        "municipality_id": 2,
+        "name": "Aathabis",
+        "alt_name": "आठबिस"
+    },
+    {
+        "municipality_id": 3,
+        "name": "Aathabiskot",
+        "alt_name": "आठबिस्कोट"
+    },
+    {
+        "municipality_id": 4,
+        "name": "Arjundhara",
+        "alt_name": "अर्जुनधारा"
+    },
+    {
+        "municipality_id": 5,
+        "name": "Aurahi",
+        "alt_name": "औरही"
+    },
+    {
+        "municipality_id": 6,
+        "name": "Badimalika",
+        "alt_name": "बडिमालिका"
+    },
+    {
+        "municipality_id": 7,
+        "name": "Bagchaur",
+        "alt_name": "बागचौर"
+    },
+    {
+        "municipality_id": 8,
+        "name": "Baglung",
+        "alt_name": "बाग्लुङ"
+    },
+    {
+        "municipality_id": 9,
+        "name": "Bagmati",
+        "alt_name": "बागमती"
+    },
+    {
+        "municipality_id": 10,
+        "name": "Bahudarmai",
+        "alt_name": "बहादुरमाई"
+    },
+    {
+        "municipality_id": 11,
+        "name": "Balara",
+        "alt_name": "बलरा"
+    },
+    {
+        "municipality_id": 12,
+        "name": "Balawa",
+        "alt_name": "बलवा"
+    },
+    {
+        "municipality_id": 13,
+        "name": "Banepa",
+        "alt_name": "बनेपा"
+    },
+    {
+        "municipality_id": 14,
+        "name": "Bangad Kupinde",
+        "alt_name": "बांगद कुपिन्दे"
+    },
+    {
+        "municipality_id": 15,
+        "name": "Banganga",
+        "alt_name": "बाणगंगा"
+    },
+    {
+        "municipality_id": 16,
+        "name": "Bansgadhi",
+        "alt_name": "बाँसगढी"
+    },
+    {
+        "municipality_id": 17,
+        "name": "Barahachhetra",
+        "alt_name": "बराहक्षेत्र"
+    },
+    {
+        "municipality_id": 18,
+        "name": "Barahathawa",
+        "alt_name": "बराहथवा"
+    },
+    {
+        "municipality_id": 19,
+        "name": "Barbardiya",
+        "alt_name": "बारबर्दिया"
+    },
+    {
+        "municipality_id": 20,
+        "name": "Bardghat",
+        "alt_name": "बर्दघाट"
+    },
+    {
+        "municipality_id": 21,
+        "name": "Bardibas",
+        "alt_name": "बर्दिवास"
+    },
+    {
+        "municipality_id": 22,
+        "name": "Barhabise",
+        "alt_name": "बाह्रबिसे"
+    },
+    {
+        "municipality_id": 23,
+        "name": "Baudhimai",
+        "alt_name": "बौधिमाई"
+    },
+    {
+        "municipality_id": 24,
+        "name": "Bedkot",
+        "alt_name": "बेदकोट"
+    },
+    {
+        "municipality_id": 25,
+        "name": "Belaka",
+        "alt_name": "बेलका"
+    },
+    {
+        "municipality_id": 26,
+        "name": "Belauri",
+        "alt_name": "बेलौरी"
+    },
+    {
+        "municipality_id": 27,
+        "name": "Belbaari",
+        "alt_name": "बेलबारी"
+    },
+    {
+        "municipality_id": 28,
+        "name": "Belkotgadhi",
+        "alt_name": "बेलकोटगढी"
+    },
+    {
+        "municipality_id": 29,
+        "name": "Beni",
+        "alt_name": "बेनी"
+    },
+    {
+        "municipality_id": 30,
+        "name": "Besishahar",
+        "alt_name": "बेशीशहर"
+    },
+    {
+        "municipality_id": 31,
+        "name": "Bhadrapur",
+        "alt_name": "भद्रपुर"
+    },
+    {
+        "municipality_id": 32,
+        "name": "Bhajani",
+        "alt_name": "भजनी"
+    },
+    {
+        "municipality_id": 33,
+        "name": "Bhaktapur",
+        "alt_name": "भक्तपुर"
+    },
+    {
+        "municipality_id": 34,
+        "name": "Bhangaha",
+        "alt_name": "भङ्गाहा"
+    },
+    {
+        "municipality_id": 35,
+        "name": "Bhanu",
+        "alt_name": "भानु"
+    },
+    {
+        "municipality_id": 36,
+        "name": "Bharatpur",
+        "alt_name": "भरतपुर"
+    },
+    {
+        "municipality_id": 37,
+        "name": "Bheemdatta",
+        "alt_name": "भीमदत्त"
+    },
+    {
+        "municipality_id": 38,
+        "name": "Bheerkot",
+        "alt_name": "भेरकोट"
+    },
+    {
+        "municipality_id": 39,
+        "name": "Bheri",
+        "alt_name": "भेरी"
+    },
+    {
+        "municipality_id": 40,
+        "name": "Bheriganga",
+        "alt_name": "भेरीगंगा"
+    },
+    {
+        "municipality_id": 41,
+        "name": "Bhimad",
+        "alt_name": "भीमद"
+    },
+    {
+        "municipality_id": 42,
+        "name": "Bhimeshwar",
+        "alt_name": "भीमेश्वर"
+    },
+    {
+        "municipality_id": 43,
+        "name": "Bhojpur",
+        "alt_name": "भोजपुर"
+    },
+    {
+        "municipality_id": 44,
+        "name": "Bhumikasthan",
+        "alt_name": "भूमिकास्थान"
+    },
+    {
+        "municipality_id": 45,
+        "name": "Bideha",
+        "alt_name": "बिदेहा"
+    },
+    {
+        "municipality_id": 46,
+        "name": "Bidur",
+        "alt_name": "बिदुर"
+    },
+    {
+        "municipality_id": 47,
+        "name": "Biratnagar",
+        "alt_name": "विराटनगर"
+    },
+    {
+        "municipality_id": 48,
+        "name": "Birendranagar",
+        "alt_name": "वीरेन्द्रनगर"
+    },
+    {
+        "municipality_id": 49,
+        "name": "Birgunj",
+        "alt_name": "वीरगन्ज"
+    },
+    {
+        "municipality_id": 50,
+        "name": "Birtamod",
+        "alt_name": "बिर्तामोड"
+    },
+    {
+        "municipality_id": 51,
+        "name": "Bode Barsain",
+        "alt_name": "बोडे बार्सैन"
+    },
+    {
+        "municipality_id": 52,
+        "name": "Brindaban",
+        "alt_name": "वृन्दबन"
+    },
+    {
+        "municipality_id": 53,
+        "name": "Buddhabhumi",
+        "alt_name": "बुद्धभूमि"
+    },
+    {
+        "municipality_id": 54,
+        "name": "Budhanilkantha",
+        "alt_name": "बुढानिलकण्ठ"
+    },
+    {
+        "municipality_id": 55,
+        "name": "Budhiganga",
+        "alt_name": "बुढीगंगा"
+    },
+    {
+        "municipality_id": 56,
+        "name": "Budhinanda",
+        "alt_name": "बुढीनन्द"
+    },
+    {
+        "municipality_id": 57,
+        "name": "Bungal",
+        "alt_name": "बुंगल"
+    },
+    {
+        "municipality_id": 58,
+        "name": "Butwal",
+        "alt_name": "बुटवल"
+    },
+    {
+        "municipality_id": 59,
+        "name": "Chainpur",
+        "alt_name": "चैनपुर"
+    },
+    {
+        "municipality_id": 60,
+        "name": "Chamunda Bindrasaini",
+        "alt_name": "चामुण्डा बिन्द्रसैनी"
+    },
+    {
+        "municipality_id": 61,
+        "name": "Chandannath",
+        "alt_name": "चन्दननाथ"
+    },
+    {
+        "municipality_id": 62,
+        "name": "Chandragiri",
+        "alt_name": "चन्द्रागिरि"
+    },
+    {
+        "municipality_id": 63,
+        "name": "Chandrapur",
+        "alt_name": "चन्द्रपुर"
+    },
+    {
+        "municipality_id": 64,
+        "name": "Changunarayan",
+        "alt_name": "चाँगुनारायण"
+    },
+    {
+        "municipality_id": 65,
+        "name": "Chapakot",
+        "alt_name": "चापाकोट"
+    },
+    {
+        "municipality_id": 66,
+        "name": "Chaudandigadhi",
+        "alt_name": "चौदण्डीगढी"
+    },
+    {
+        "municipality_id": 67,
+        "name": "Chaurjahari",
+        "alt_name": "चौरजहारी"
+    },
+    {
+        "municipality_id": 68,
+        "name": "Chautara Sangachowkgadhi",
+        "alt_name": "चौतारा साँगाचोकगढी"
+    },
+    {
+        "municipality_id": 69,
+        "name": "Chhayanath Rara",
+        "alt_name": "छायानाथ रारा"
+    },
+    {
+        "municipality_id": 70,
+        "name": "Chhedagad",
+        "alt_name": "छेडागढ"
+    },
+    {
+        "municipality_id": 71,
+        "name": "Dakneshwari",
+        "alt_name": "डाक्नेश्वरी"
+    },
+    {
+        "municipality_id": 72,
+        "name": "Damak",
+        "alt_name": "दमक"
+    },
+    {
+        "municipality_id": 73,
+        "name": "Dasharath Chand",
+        "alt_name": "दशरथ चन्द"
+    },
+    {
+        "municipality_id": 74,
+        "name": "Daxinkaali",
+        "alt_name": "दक्षिणकाली"
+    },
+    {
+        "municipality_id": 75,
+        "name": "Deumai",
+        "alt_name": "देउमाई"
+    },
+    {
+        "municipality_id": 76,
+        "name": "Devchuli",
+        "alt_name": "देवचुली"
+    },
+    {
+        "municipality_id": 77,
+        "name": "Devdaha",
+        "alt_name": "देवदह"
+    },
+    {
+        "municipality_id": 78,
+        "name": "Dewahi Gonahi",
+        "alt_name": "देवाही गोनाही"
+    },
+    {
+        "municipality_id": 79,
+        "name": "Dhangadhi",
+        "alt_name": "धनगढी"
+    },
+    {
+        "municipality_id": 80,
+        "name": "Dhangadimai",
+        "alt_name": "धनगढीमाई"
+    },
+    {
+        "municipality_id": 81,
+        "name": "Dhankuta",
+        "alt_name": "धनकुटा"
+    },
+    {
+        "municipality_id": 82,
+        "name": "Dhanushadham",
+        "alt_name": "धनुषाधाम"
+    },
+    {
+        "municipality_id": 83,
+        "name": "Dharan",
+        "alt_name": "धरान"
+    },
+    {
+        "municipality_id": 84,
+        "name": "Dharmadevi",
+        "alt_name": "धर्मदेवी"
+    },
+    {
+        "municipality_id": 85,
+        "name": "Dhorpatan",
+        "alt_name": "ढोरपाटन"
+    },
+    {
+        "municipality_id": 86,
+        "name": "Dhulikhel",
+        "alt_name": "धुलिखेल"
+    },
+    {
+        "municipality_id": 87,
+        "name": "Dhunibeshi",
+        "alt_name": "धुनिबेशी"
+    },
+    {
+        "municipality_id": 88,
+        "name": "Diktel Rupakot Majuwagadhi",
+        "alt_name": "दिक्तेल रुपाकोट मजुवागढी"
+    },
+    {
+        "municipality_id": 89,
+        "name": "Dipayal Silgadhi",
+        "alt_name": "दिपायल सिलगढी"
+    },
+    {
+        "municipality_id": 90,
+        "name": "Dudhauli",
+        "alt_name": "दुधौली"
+    },
+    {
+        "municipality_id": 91,
+        "name": "Duhabi",
+        "alt_name": "दुहबी"
+    },
+    {
+        "municipality_id": 92,
+        "name": "Dullu",
+        "alt_name": "दुल्लु"
+    },
+    {
+        "municipality_id": 93,
+        "name": "Gadhimai",
+        "alt_name": "गढीमाई"
+    },
+    {
+        "municipality_id": 94,
+        "name": "Gaindakot",
+        "alt_name": "गैँडाकोट"
+    },
+    {
+        "municipality_id": 95,
+        "name": "Galkot",
+        "alt_name": "गलकोट"
+    },
+    {
+        "municipality_id": 96,
+        "name": "Galyang",
+        "alt_name": "गल्याङ"
+    },
+    {
+        "municipality_id": 97,
+        "name": "Ganeshman Charnath",
+        "alt_name": "गणेशमान चारनाथ"
+    },
+    {
+        "municipality_id": 98,
+        "name": "Garuda",
+        "alt_name": "गरुड"
+    },
+    {
+        "municipality_id": 99,
+        "name": "Gaur",
+        "alt_name": "गौर"
+    },
+    {
+        "municipality_id": 100,
+        "name": "Gauradaha",
+        "alt_name": "गौरादह"
+    },
+    {
+        "municipality_id": 101,
+        "name": "Gauriganga",
+        "alt_name": "गौरीगंगा"
+    },
+    {
+        "municipality_id": 102,
+        "name": "Gaushala",
+        "alt_name": "गौशाला"
+    },
+    {
+        "municipality_id": 103,
+        "name": "Ghodaghodi",
+        "alt_name": "घोडाघोडी"
+    },
+    {
+        "municipality_id": 104,
+        "name": "Ghorahi",
+        "alt_name": "घोराही"
+    },
+    {
+        "municipality_id": 105,
+        "name": "Godaita",
+        "alt_name": "गोदैता"
+    },
+    {
+        "municipality_id": 106,
+        "name": "Godawari",
+        "alt_name": "गोदावरी"
+    },
+    {
+        "municipality_id": 107,
+        "name": "Godawari, Seti",
+        "alt_name": "गोदावरी, सेती"
+    },
+    {
+        "municipality_id": 108,
+        "name": "Gokarneshwor",
+        "alt_name": "गोकर्णेश्वर"
+    },
+    {
+        "municipality_id": 109,
+        "name": "Golbazar",
+        "alt_name": "गोलबजार"
+    },
+    {
+        "municipality_id": 110,
+        "name": "Gorkha",
+        "alt_name": "गोरखा"
+    },
+    {
+        "municipality_id": 111,
+        "name": "Gujara",
+        "alt_name": "गुजरा"
+    },
+    {
+        "municipality_id": 112,
+        "name": "Gulariya",
+        "alt_name": "गुलरिया"
+    },
+    {
+        "municipality_id": 113,
+        "name": "Gurbhakot",
+        "alt_name": "गुर्भाकोट"
+    },
+    {
+        "municipality_id": 114,
+        "name": "Halesi Tuwachung",
+        "alt_name": "हलेसी तुवाचुङ"
+    },
+    {
+        "municipality_id": 115,
+        "name": "Hansapur",
+        "alt_name": "हंसपुर"
+    },
+    {
+        "municipality_id": 116,
+        "name": "Hanumannagar Kankalini",
+        "alt_name": "हनुमाननगर कंकालिनी"
+    },
+    {
+        "municipality_id": 117,
+        "name": "Haripur",
+        "alt_name": "हरिपुर"
+    },
+    {
+        "municipality_id": 118,
+        "name": "Haripurwa",
+        "alt_name": "हरिपुरवा"
+    },
+    {
+        "municipality_id": 119,
+        "name": "Hariwan",
+        "alt_name": "हरिवान"
+    },
+    {
+        "municipality_id": 120,
+        "name": "Hetauda",
+        "alt_name": "हेटौंडा"
+    },
+    {
+        "municipality_id": 121,
+        "name": "Ilam",
+        "alt_name": "इलाम"
+    },
+    {
+        "municipality_id": 122,
+        "name": "Inaruwa",
+        "alt_name": "इनरुवा"
+    },
+    {
+        "municipality_id": 123,
+        "name": "Ishnath",
+        "alt_name": "इशनाथ"
+    },
+    {
+        "municipality_id": 124,
+        "name": "Ishworpur",
+        "alt_name": "ईश्वरपुर"
+    },
+    {
+        "municipality_id": 125,
+        "name": "Itahari",
+        "alt_name": "इटहरी"
+    },
+    {
+        "municipality_id": 126,
+        "name": "Jaimini",
+        "alt_name": "जैमिनी"
+    },
+    {
+        "municipality_id": 127,
+        "name": "Jaleshwar",
+        "alt_name": "जलेश्वर"
+    },
+    {
+        "municipality_id": 128,
+        "name": "Janakpur",
+        "alt_name": "जनकपुर"
+    },
+    {
+        "municipality_id": 129,
+        "name": "Jaya Prithvi",
+        "alt_name": "जय पृथ्वी"
+    },
+    {
+        "municipality_id": 130,
+        "name": "Jiri",
+        "alt_name": "जिरी"
+    },
+    {
+        "municipality_id": 131,
+        "name": "Jitpur Simara",
+        "alt_name": "जितपुर सिमरा"
+    },
+    {
+        "municipality_id": 132,
+        "name": "Kabilasi",
+        "alt_name": "कबिलासी"
+    },
+    {
+        "municipality_id": 133,
+        "name": "Kageshwori Manohara",
+        "alt_name": "कागेश्वरी मनोहरा"
+    },
+    {
+        "municipality_id": 134,
+        "name": "Kalaiya",
+        "alt_name": "कलैया"
+    },
+    {
+        "municipality_id": 135,
+        "name": "Kalika",
+        "alt_name": "कालिका"
+    },
+    {
+        "municipality_id": 136,
+        "name": "Kalyanpur",
+        "alt_name": "कल्याणपुर"
+    },
+    {
+        "municipality_id": 137,
+        "name": "Kamala",
+        "alt_name": "कमला"
+    },
+    {
+        "municipality_id": 138,
+        "name": "Kamalamai",
+        "alt_name": "कमलामाई"
+    },
+    {
+        "municipality_id": 139,
+        "name": "Kamalbazar",
+        "alt_name": "कमलबजार"
+    },
+    {
+        "municipality_id": 140,
+        "name": "Kanchanrup",
+        "alt_name": "कञ्चनरुप"
+    },
+    {
+        "municipality_id": 141,
+        "name": "Kankai",
+        "alt_name": "कनकाई"
+    },
+    {
+        "municipality_id": 142,
+        "name": "Kapilvastu",
+        "alt_name": "कपिलवस्तु"
+    },
+    {
+        "municipality_id": 143,
+        "name": "Karjanha",
+        "alt_name": "कर्जन्हा"
+    },
+    {
+        "municipality_id": 144,
+        "name": "Katahariya",
+        "alt_name": "कटहरिया"
+    },
+    {
+        "municipality_id": 145,
+        "name": "Katari",
+        "alt_name": "कटारी"
+    },
+    {
+        "municipality_id": 146,
+        "name": "Kathmandu",
+        "alt_name": "काठमाडौं ।"
+    },
+    {
+        "municipality_id": 147,
+        "name": "Kawasoti",
+        "alt_name": "कावासोती"
+    },
+    {
+        "municipality_id": 148,
+        "name": "Khadak",
+        "alt_name": "खडक"
+    },
+    {
+        "municipality_id": 149,
+        "name": "Khairhani",
+        "alt_name": "खैरहनी"
+    },
+    {
+        "municipality_id": 150,
+        "name": "Khandachakra",
+        "alt_name": "खंडचक्र"
+    },
+    {
+        "municipality_id": 151,
+        "name": "Khandbari",
+        "alt_name": "खाँदबारी"
+    },
+    {
+        "municipality_id": 152,
+        "name": "Kirtipur",
+        "alt_name": "कीर्तिपुर"
+    },
+    {
+        "municipality_id": 153,
+        "name": "Kohalpur",
+        "alt_name": "कोहलपुर"
+    },
+    {
+        "municipality_id": 154,
+        "name": "Kolhabi",
+        "alt_name": "कोल्हाबी"
+    },
+    {
+        "municipality_id": 155,
+        "name": "Krishnanagar",
+        "alt_name": "कृष्णनगर"
+    },
+    {
+        "municipality_id": 156,
+        "name": "Krishnapur",
+        "alt_name": "कृष्णपुर"
+    },
+    {
+        "municipality_id": 157,
+        "name": "Kshireshwor Nath",
+        "alt_name": "क्षीरेश्वर नाथ"
+    },
+    {
+        "municipality_id": 158,
+        "name": "Kushma",
+        "alt_name": "कुश्मा"
+    },
+    {
+        "municipality_id": 159,
+        "name": "Lahan",
+        "alt_name": "लहान"
+    },
+    {
+        "municipality_id": 160,
+        "name": "Lalbandi",
+        "alt_name": "लालबन्दी"
+    },
+    {
+        "municipality_id": 161,
+        "name": "Laligurans",
+        "alt_name": "लालीगुराँस"
+    },
+    {
+        "municipality_id": 162,
+        "name": "Lalitpur",
+        "alt_name": "ललितपुर"
+    },
+    {
+        "municipality_id": 163,
+        "name": "Lamahi",
+        "alt_name": "लमही"
+    },
+    {
+        "municipality_id": 164,
+        "name": "Lamki Chuha",
+        "alt_name": "लम्की चुहा"
+    },
+    {
+        "municipality_id": 165,
+        "name": "Lekbeshi",
+        "alt_name": "लेकबेशी"
+    },
+    {
+        "municipality_id": 166,
+        "name": "Letang",
+        "alt_name": "लेटाङ"
+    },
+    {
+        "municipality_id": 167,
+        "name": "Loharpatti",
+        "alt_name": "लोहारपट्टी"
+    },
+    {
+        "municipality_id": 168,
+        "name": "Lumbini Sanskritik",
+        "alt_name": "लुम्बिनी संस्कृत"
+    },
+    {
+        "municipality_id": 169,
+        "name": "Madhav Narayan",
+        "alt_name": "माधव नारायण"
+    },
+    {
+        "municipality_id": 170,
+        "name": "Madhuwan",
+        "alt_name": "मधुवन"
+    },
+    {
+        "municipality_id": 171,
+        "name": "Madhya Nepal",
+        "alt_name": "मध्य नेपाल"
+    },
+    {
+        "municipality_id": 172,
+        "name": "Madhyabindu",
+        "alt_name": "मध्यविन्दु"
+    },
+    {
+        "municipality_id": 173,
+        "name": "Madhyapur Thimi",
+        "alt_name": "मध्यपुरथिमि"
+    },
+    {
+        "municipality_id": 174,
+        "name": "Madi",
+        "alt_name": "माडी"
+    },
+    {
+        "municipality_id": 175,
+        "name": "Madi",
+        "alt_name": "माडी"
+    },
+    {
+        "municipality_id": 176,
+        "name": "Mahagadhimai",
+        "alt_name": "महागढीमाई"
+    },
+    {
+        "municipality_id": 177,
+        "name": "Mahakali",
+        "alt_name": "महाकाली"
+    },
+    {
+        "municipality_id": 178,
+        "name": "Mahakali",
+        "alt_name": "महाकाली"
+    },
+    {
+        "municipality_id": 179,
+        "name": "Mahalaxmi",
+        "alt_name": "महालक्ष्मी"
+    },
+    {
+        "municipality_id": 180,
+        "name": "Mahalaxmi",
+        "alt_name": "महालक्ष्मी"
+    },
+    {
+        "municipality_id": 181,
+        "name": "Maharajgunj",
+        "alt_name": "महाराजगन्ज"
+    },
+    {
+        "municipality_id": 182,
+        "name": "Mai",
+        "alt_name": "माई"
+    },
+    {
+        "municipality_id": 183,
+        "name": "Malangwa",
+        "alt_name": "मलङ्गवा"
+    },
+    {
+        "municipality_id": 184,
+        "name": "Manara Shisawa",
+        "alt_name": "मनारा शिसावा"
+    },
+    {
+        "municipality_id": 185,
+        "name": "Mandandeupur",
+        "alt_name": "मण्डनदेउपुर"
+    },
+    {
+        "municipality_id": 186,
+        "name": "Mangalsen",
+        "alt_name": "मंगलसेन"
+    },
+    {
+        "municipality_id": 187,
+        "name": "Manthali",
+        "alt_name": "मन्थली"
+    },
+    {
+        "municipality_id": 188,
+        "name": "Matihani",
+        "alt_name": "मटिहानी"
+    },
+    {
+        "municipality_id": 189,
+        "name": "Maulapur",
+        "alt_name": "मौलापुर"
+    },
+    {
+        "municipality_id": 190,
+        "name": "Mechinagar",
+        "alt_name": "मेचीनगर"
+    },
+    {
+        "municipality_id": 191,
+        "name": "Melamchi",
+        "alt_name": "मेलम्ची"
+    },
+    {
+        "municipality_id": 192,
+        "name": "Melauli",
+        "alt_name": "मेलौली"
+    },
+    {
+        "municipality_id": 193,
+        "name": "Mirchaiya",
+        "alt_name": "मिर्चैया"
+    },
+    {
+        "municipality_id": 194,
+        "name": "Mithila",
+        "alt_name": "मिथिला"
+    },
+    {
+        "municipality_id": 195,
+        "name": "Mithila Bihari",
+        "alt_name": "मिथिला बिहारी"
+    },
+    {
+        "municipality_id": 196,
+        "name": "Musikot",
+        "alt_name": "मुसिकोट"
+    },
+    {
+        "municipality_id": 197,
+        "name": "Musikot",
+        "alt_name": "मुसिकोट"
+    },
+    {
+        "municipality_id": 198,
+        "name": "Myanglung",
+        "alt_name": "म्याङलुङ"
+    },
+    {
+        "municipality_id": 199,
+        "name": "Nagarain",
+        "alt_name": "नगराई"
+    },
+    {
+        "municipality_id": 200,
+        "name": "Nagarjun",
+        "alt_name": "नागार्जुन"
+    },
+    {
+        "municipality_id": 201,
+        "name": "Nalgad",
+        "alt_name": "नलगास"
+    },
+    {
+        "municipality_id": 202,
+        "name": "Namobuddha",
+        "alt_name": "नमोबुद्ध"
+    },
+    {
+        "municipality_id": 203,
+        "name": "Narayan",
+        "alt_name": "नारायण"
+    },
+    {
+        "municipality_id": 204,
+        "name": "Nepalgunj",
+        "alt_name": "नेपालगन्ज"
+    },
+    {
+        "municipality_id": 205,
+        "name": "Nijgadh",
+        "alt_name": "निजगढ"
+    },
+    {
+        "municipality_id": 206,
+        "name": "Nilkantha",
+        "alt_name": "नीलकण्ठ"
+    },
+    {
+        "municipality_id": 207,
+        "name": "Pachrauta",
+        "alt_name": "पचरौता"
+    },
+    {
+        "municipality_id": 208,
+        "name": "Pakhribas",
+        "alt_name": "पाखरीबास"
+    },
+    {
+        "municipality_id": 209,
+        "name": "Palungtar",
+        "alt_name": "पालुङटार"
+    },
+    {
+        "municipality_id": 210,
+        "name": "Panchadewal Binayak",
+        "alt_name": "पञ्चदेवल विनायक"
+    },
+    {
+        "municipality_id": 211,
+        "name": "Panchapuri",
+        "alt_name": "पञ्चपुरी"
+    },
+    {
+        "municipality_id": 212,
+        "name": "Panchkhal",
+        "alt_name": "पाँचखाल"
+    },
+    {
+        "municipality_id": 213,
+        "name": "Panchkhapan",
+        "alt_name": "पाँचखापन"
+    },
+    {
+        "municipality_id": 214,
+        "name": "Parashuram",
+        "alt_name": "परशुराम"
+    },
+    {
+        "municipality_id": 215,
+        "name": "Paroha",
+        "alt_name": "पारोहा"
+    },
+    {
+        "municipality_id": 216,
+        "name": "Parsagadhi",
+        "alt_name": "पर्सागढी"
+    },
+    {
+        "municipality_id": 217,
+        "name": "Patan",
+        "alt_name": "पाटन"
+    },
+    {
+        "municipality_id": 218,
+        "name": "Pathari Shanischare",
+        "alt_name": "पथरी शनिश्चरे"
+    },
+    {
+        "municipality_id": 219,
+        "name": "Paunauti",
+        "alt_name": "पौनौती"
+    },
+    {
+        "municipality_id": 220,
+        "name": "Phalewas",
+        "alt_name": "फलेवास"
+    },
+    {
+        "municipality_id": 221,
+        "name": "Phatuwa Bijayapur",
+        "alt_name": "विजयपुर फटुवा"
+    },
+    {
+        "municipality_id": 222,
+        "name": "Phidim",
+        "alt_name": "फिदिम"
+    },
+    {
+        "municipality_id": 223,
+        "name": "Phungling",
+        "alt_name": "फुङ्लिङ"
+    },
+    {
+        "municipality_id": 224,
+        "name": "Pokhara",
+        "alt_name": "पोखरा"
+    },
+    {
+        "municipality_id": 225,
+        "name": "Pokhariya",
+        "alt_name": "पोखरिया"
+    },
+    {
+        "municipality_id": 226,
+        "name": "Punarbas",
+        "alt_name": "पुनर्वास"
+    },
+    {
+        "municipality_id": 227,
+        "name": "Purchaundi",
+        "alt_name": "पुर्चौंडी"
+    },
+    {
+        "municipality_id": 228,
+        "name": "Putalibaazar",
+        "alt_name": "पुतलीबजार"
+    },
+    {
+        "municipality_id": 229,
+        "name": "Pyuthan",
+        "alt_name": "प्युठान"
+    },
+    {
+        "municipality_id": 230,
+        "name": "Rainas",
+        "alt_name": "रैनास"
+    },
+    {
+        "municipality_id": 231,
+        "name": "Rajapur",
+        "alt_name": "राजापुर"
+    },
+    {
+        "municipality_id": 232,
+        "name": "Rajbiraj",
+        "alt_name": "राजविराज"
+    },
+    {
+        "municipality_id": 233,
+        "name": "Rajdevi",
+        "alt_name": "राजदेवी"
+    },
+    {
+        "municipality_id": 234,
+        "name": "Rajpur",
+        "alt_name": "राजपुर"
+    },
+    {
+        "municipality_id": 235,
+        "name": "Ramdhuni",
+        "alt_name": "रामधुनी"
+    },
+    {
+        "municipality_id": 236,
+        "name": "Ramechhap",
+        "alt_name": "रामेछाप"
+    },
+    {
+        "municipality_id": 237,
+        "name": "Ramgopalpur",
+        "alt_name": "रामगोपालपुर"
+    },
+    {
+        "municipality_id": 238,
+        "name": "Ramgram",
+        "alt_name": "रामग्राम"
+    },
+    {
+        "municipality_id": 239,
+        "name": "Rampur",
+        "alt_name": "रामपुर"
+    },
+    {
+        "municipality_id": 240,
+        "name": "Rangeli",
+        "alt_name": "रंगेली"
+    },
+    {
+        "municipality_id": 241,
+        "name": "Rapti",
+        "alt_name": "राप्ती"
+    },
+    {
+        "municipality_id": 242,
+        "name": "Raskot",
+        "alt_name": "रास्कोट"
+    },
+    {
+        "municipality_id": 243,
+        "name": "Ratnanagar",
+        "alt_name": "रत्ननगर"
+    },
+    {
+        "municipality_id": 244,
+        "name": "Ratuwamai",
+        "alt_name": "रतुवामाई"
+    },
+    {
+        "municipality_id": 245,
+        "name": "Resunga",
+        "alt_name": "रेसुंगा"
+    },
+    {
+        "municipality_id": 246,
+        "name": "Ropla",
+        "alt_name": "रोपला"
+    },
+    {
+        "municipality_id": 247,
+        "name": "Sabaila",
+        "alt_name": "सबाइला"
+    },
+    {
+        "municipality_id": 248,
+        "name": "Sainamaina",
+        "alt_name": "सैनामैना"
+    },
+    {
+        "municipality_id": 249,
+        "name": "Sandhikharka",
+        "alt_name": "सन्धिखर्क"
+    },
+    {
+        "municipality_id": 250,
+        "name": "Saphebagar",
+        "alt_name": "साफेबगर"
+    },
+    {
+        "municipality_id": 251,
+        "name": "Saptakoshi",
+        "alt_name": "सप्तकोशी"
+    },
+    {
+        "municipality_id": 252,
+        "name": "Shaarda",
+        "alt_name": "शारदा"
+    },
+    {
+        "municipality_id": 253,
+        "name": "Shadanand",
+        "alt_name": "षदानन्द"
+    },
+    {
+        "municipality_id": 254,
+        "name": "Shahidnagar",
+        "alt_name": "शहिदनगर"
+    },
+    {
+        "municipality_id": 255,
+        "name": "Shailyashikhar",
+        "alt_name": "शैल्यशिखर"
+    },
+    {
+        "municipality_id": 256,
+        "name": "Shambhunath",
+        "alt_name": "शम्भुनाथ"
+    },
+    {
+        "municipality_id": 257,
+        "name": "Shankharapur",
+        "alt_name": "शंखरापुर"
+    },
+    {
+        "municipality_id": 258,
+        "name": "Shikhar",
+        "alt_name": "शिखर"
+    },
+    {
+        "municipality_id": 259,
+        "name": "Shiva Sataxi",
+        "alt_name": "शिव सताक्सी"
+    },
+    {
+        "municipality_id": 260,
+        "name": "Shivaraj",
+        "alt_name": "शिवराज"
+    },
+    {
+        "municipality_id": 261,
+        "name": "Shuklagandaki",
+        "alt_name": "शुक्लागण्डकी"
+    },
+    {
+        "municipality_id": 262,
+        "name": "Shuklaphanta",
+        "alt_name": "शुक्लाफाँटा"
+    },
+    {
+        "municipality_id": 263,
+        "name": "Siddharthanagar",
+        "alt_name": "सिद्धार्थनगर"
+    },
+    {
+        "municipality_id": 264,
+        "name": "Siddhicharan",
+        "alt_name": "सिद्धिचरण"
+    },
+    {
+        "municipality_id": 265,
+        "name": "Simraungadh",
+        "alt_name": "सिम्रौनगढ"
+    },
+    {
+        "municipality_id": 266,
+        "name": "Siraha",
+        "alt_name": "सिरहा"
+    },
+    {
+        "municipality_id": 267,
+        "name": "Sitganga",
+        "alt_name": "सितगंगा"
+    },
+    {
+        "municipality_id": 268,
+        "name": "Solu Dudhkunda",
+        "alt_name": "सोलु दुधकुण्ड"
+    },
+    {
+        "municipality_id": 269,
+        "name": "Sukhipur",
+        "alt_name": "सुखीपुर"
+    },
+    {
+        "municipality_id": 270,
+        "name": "Sunawarshi",
+        "alt_name": "सुनवर्शी"
+    },
+    {
+        "municipality_id": 271,
+        "name": "Sundar Haraincha",
+        "alt_name": "सुन्दर हरैंचा"
+    },
+    {
+        "municipality_id": 272,
+        "name": "Sundarbazar",
+        "alt_name": "सुन्दरबजार"
+    },
+    {
+        "municipality_id": 273,
+        "name": "Sunwal",
+        "alt_name": "सुनवल"
+    },
+    {
+        "municipality_id": 274,
+        "name": "Surunga",
+        "alt_name": "सुरुङ्गा"
+    },
+    {
+        "municipality_id": 275,
+        "name": "Suryabinayak",
+        "alt_name": "सूर्यविनायक"
+    },
+    {
+        "municipality_id": 276,
+        "name": "Suryodaya",
+        "alt_name": "सूर्योदय"
+    },
+    {
+        "municipality_id": 277,
+        "name": "Swargadwari",
+        "alt_name": "स्वर्गद्वारी"
+    },
+    {
+        "municipality_id": 278,
+        "name": "Tansen",
+        "alt_name": "तानसेन"
+    },
+    {
+        "municipality_id": 279,
+        "name": "Tarakeshor",
+        "alt_name": "तारकेश्वर"
+    },
+    {
+        "municipality_id": 280,
+        "name": "Thaha",
+        "alt_name": "थाहा"
+    },
+    {
+        "municipality_id": 281,
+        "name": "Thakurbaba",
+        "alt_name": "ठाकुरबाबा"
+    },
+    {
+        "municipality_id": 282,
+        "name": "Thuli Bheri",
+        "alt_name": "ठुली भेरी"
+    },
+    {
+        "municipality_id": 283,
+        "name": "Tikapur",
+        "alt_name": "टीकापुर"
+    },
+    {
+        "municipality_id": 284,
+        "name": "Tilagufa",
+        "alt_name": "तिलागुफा"
+    },
+    {
+        "municipality_id": 285,
+        "name": "Tilottama",
+        "alt_name": "तिलोत्तमा"
+    },
+    {
+        "municipality_id": 286,
+        "name": "Tokha",
+        "alt_name": "टोखा"
+    },
+    {
+        "municipality_id": 287,
+        "name": "Tribeni",
+        "alt_name": "त्रिवेणी"
+    },
+    {
+        "municipality_id": 288,
+        "name": "Tripura Sundari",
+        "alt_name": "त्रिपुरा सुन्दरी"
+    },
+    {
+        "municipality_id": 289,
+        "name": "Triyuga",
+        "alt_name": "त्रियुग"
+    },
+    {
+        "municipality_id": 290,
+        "name": "Tulsipur",
+        "alt_name": "तुलसीपुर"
+    },
+    {
+        "municipality_id": 291,
+        "name": "Urlabari",
+        "alt_name": "उर्लाबारी"
+    },
+    {
+        "municipality_id": 292,
+        "name": "Vyas",
+        "alt_name": "व्यास"
+    },
+    {
+        "municipality_id": 293,
+        "name": "Waling",
+        "alt_name": "वालिङ"
+    },
+    {
+        "municipality_id": 294,
+        "name": "Hatuwagadhi",
+        "alt_name": "हतुवागढी"
+    },
+    {
+        "municipality_id": 295,
+        "name": "Ramprasad Rai",
+        "alt_name": "रामप्रसाद राई"
+    },
+    {
+        "municipality_id": 296,
+        "name": "Aamchok",
+        "alt_name": "आमचोक"
+    },
+    {
+        "municipality_id": 297,
+        "name": "Tyamke Maiyunm",
+        "alt_name": "त्यम्के मैयुम"
+    },
+    {
+        "municipality_id": 298,
+        "name": "Arun",
+        "alt_name": "अरुण"
+    },
+    {
+        "municipality_id": 299,
+        "name": "Pauwadungma",
+        "alt_name": "पौवाडुङ्मा"
+    },
+    {
+        "municipality_id": 300,
+        "name": "Salpasilichho",
+        "alt_name": "सालपसिलिछो"
+    },
+    {
+        "municipality_id": 301,
+        "name": "Sangurigadhi",
+        "alt_name": "साँगुरीगढी"
+    },
+    {
+        "municipality_id": 302,
+        "name": "Chaubise",
+        "alt_name": "चौबिसे"
+    },
+    {
+        "municipality_id": 303,
+        "name": "Khalsa Chhintang Sahidbhumi",
+        "alt_name": "खालसा छिन्ताङ सहिदभूमि"
+    },
+    {
+        "municipality_id": 304,
+        "name": "Chhathar Jorpati",
+        "alt_name": "छथर जोरपाटी"
+    },
+    {
+        "municipality_id": 305,
+        "name": "Phakphokthum",
+        "alt_name": "फाकफोकथुम"
+    },
+    {
+        "municipality_id": 306,
+        "name": "Mai Jogmai",
+        "alt_name": "माई जोगमाई"
+    },
+    {
+        "municipality_id": 307,
+        "name": "Chulachuli",
+        "alt_name": "चुलाचुली"
+    },
+    {
+        "municipality_id": 308,
+        "name": "Rong",
+        "alt_name": "रोङ"
+    },
+    {
+        "municipality_id": 309,
+        "name": "Mangsebung",
+        "alt_name": "मङ्गेबुङ"
+    },
+    {
+        "municipality_id": 310,
+        "name": "Sandakpur",
+        "alt_name": "सन्दकपुर"
+    },
+    {
+        "municipality_id": 311,
+        "name": "Kamal",
+        "alt_name": "कमल"
+    },
+    {
+        "municipality_id": 312,
+        "name": "Buddha Shanti",
+        "alt_name": "बुद्ध शान्ति"
+    },
+    {
+        "municipality_id": 313,
+        "name": "Kachankawal",
+        "alt_name": "कचनकवल"
+    },
+    {
+        "municipality_id": 314,
+        "name": "Jhapa",
+        "alt_name": "झापा"
+    },
+    {
+        "municipality_id": 315,
+        "name": "Barhadashi",
+        "alt_name": "बाह्रदशी"
+    },
+    {
+        "municipality_id": 316,
+        "name": "Gaurigunj",
+        "alt_name": "गौरीगन्ज"
+    },
+    {
+        "municipality_id": 317,
+        "name": "Haldibari",
+        "alt_name": "हल्दिबारी"
+    },
+    {
+        "municipality_id": 318,
+        "name": "Khotehang",
+        "alt_name": "खोटेहाङ"
+    },
+    {
+        "municipality_id": 319,
+        "name": "Diprung",
+        "alt_name": "डिप्रुङ"
+    },
+    {
+        "municipality_id": 320,
+        "name": "Aiselukharka",
+        "alt_name": "ऐसेलुखर्क"
+    },
+    {
+        "municipality_id": 321,
+        "name": "Jantedhunga",
+        "alt_name": "जानतेढुङ्गा"
+    },
+    {
+        "municipality_id": 322,
+        "name": "Kepilasgadhi",
+        "alt_name": "केपिलासगढी"
+    },
+    {
+        "municipality_id": 323,
+        "name": "Barahpokhari",
+        "alt_name": "बराहपोखरी"
+    },
+    {
+        "municipality_id": 324,
+        "name": "Lamidanda",
+        "alt_name": "लामिडाँडा"
+    },
+    {
+        "municipality_id": 325,
+        "name": "Sakela",
+        "alt_name": "साकेला"
+    },
+    {
+        "municipality_id": 326,
+        "name": "Jahada",
+        "alt_name": "जहादा"
+    },
+    {
+        "municipality_id": 327,
+        "name": "Budi Ganga",
+        "alt_name": "बुढी गंगा"
+    },
+    {
+        "municipality_id": 328,
+        "name": "Katahari",
+        "alt_name": "कटहरी"
+    },
+    {
+        "municipality_id": 329,
+        "name": "Dhanpalthan",
+        "alt_name": "धनपालथान"
+    },
+    {
+        "municipality_id": 330,
+        "name": "Kanepokhari",
+        "alt_name": "कानेपोखरी"
+    },
+    {
+        "municipality_id": 331,
+        "name": "Gramthan",
+        "alt_name": "ग्रामथान"
+    },
+    {
+        "municipality_id": 332,
+        "name": "Kerabari",
+        "alt_name": "केराबारी"
+    },
+    {
+        "municipality_id": 333,
+        "name": "Miklajung",
+        "alt_name": "मिक्लाजुङ"
+    },
+    {
+        "municipality_id": 334,
+        "name": "Manebhanjyang",
+        "alt_name": "मानेभञ्ज्याङ"
+    },
+    {
+        "municipality_id": 335,
+        "name": "Champadevi",
+        "alt_name": "चम्पादेवी"
+    },
+    {
+        "municipality_id": 336,
+        "name": "Sunkoshi",
+        "alt_name": "सुनकोशी"
+    },
+    {
+        "municipality_id": 337,
+        "name": "Molung",
+        "alt_name": "मोलुङ"
+    },
+    {
+        "municipality_id": 338,
+        "name": "Chisankhugadhi",
+        "alt_name": "चिसंखुगढी"
+    },
+    {
+        "municipality_id": 339,
+        "name": "Khiji Demba",
+        "alt_name": "खिजी डेम्बा"
+    },
+    {
+        "municipality_id": 340,
+        "name": "Likhu",
+        "alt_name": "लिखु"
+    },
+    {
+        "municipality_id": 341,
+        "name": "Miklajung",
+        "alt_name": "मिक्लाजुङ"
+    },
+    {
+        "municipality_id": 342,
+        "name": "Phalgunanda",
+        "alt_name": "फाल्गुनन्द"
+    },
+    {
+        "municipality_id": 343,
+        "name": "Hilihang",
+        "alt_name": "हिलिहाङ"
+    },
+    {
+        "municipality_id": 344,
+        "name": "Phalelung",
+        "alt_name": "फालेलुङ"
+    },
+    {
+        "municipality_id": 345,
+        "name": "Yangwarak",
+        "alt_name": "याङ्गवारक"
+    },
+    {
+        "municipality_id": 346,
+        "name": "Kummayak",
+        "alt_name": "कुमायक"
+    },
+    {
+        "municipality_id": 347,
+        "name": "Tumbewa",
+        "alt_name": "तुम्बेवा"
+    },
+    {
+        "municipality_id": 348,
+        "name": "Makalu",
+        "alt_name": "मकालु"
+    },
+    {
+        "municipality_id": 349,
+        "name": "Silichong",
+        "alt_name": "सिलिचङ"
+    },
+    {
+        "municipality_id": 350,
+        "name": "Sabhapokhari",
+        "alt_name": "सभापोखरी"
+    },
+    {
+        "municipality_id": 351,
+        "name": "Chichila",
+        "alt_name": "चिचिला"
+    },
+    {
+        "municipality_id": 352,
+        "name": "Bhot Khola",
+        "alt_name": "भोट खोला"
+    },
+    {
+        "municipality_id": 353,
+        "name": "Dudhakaushika",
+        "alt_name": "दुधकौशिका"
+    },
+    {
+        "municipality_id": 354,
+        "name": "Necha Salyan",
+        "alt_name": "नेचा सल्यान"
+    },
+    {
+        "municipality_id": 355,
+        "name": "Dudhkoshi",
+        "alt_name": "दूधकोशी"
+    },
+    {
+        "municipality_id": 356,
+        "name": "Maha Kulung",
+        "alt_name": "महा कुलुङ"
+    },
+    {
+        "municipality_id": 357,
+        "name": "Sotang",
+        "alt_name": "सोटाङ"
+    },
+    {
+        "municipality_id": 358,
+        "name": "Khumbu Pasang Lhamu",
+        "alt_name": "खुम्बु पासाङ ल्हामु"
+    },
+    {
+        "municipality_id": 359,
+        "name": "Likhu Pike",
+        "alt_name": "लिखु पाइक"
+    },
+    {
+        "municipality_id": 360,
+        "name": "Koshi",
+        "alt_name": "कोशी"
+    },
+    {
+        "municipality_id": 361,
+        "name": "Harinagara",
+        "alt_name": "हरिनगर"
+    },
+    {
+        "municipality_id": 362,
+        "name": "Bhokraha",
+        "alt_name": "भोक्राहा"
+    },
+    {
+        "municipality_id": 363,
+        "name": "Dewangunj",
+        "alt_name": "देवानगन्ज"
+    },
+    {
+        "municipality_id": 364,
+        "name": "Gadhi",
+        "alt_name": "गढी"
+    },
+    {
+        "municipality_id": 365,
+        "name": "Barju",
+        "alt_name": "बर्जु"
+    },
+    {
+        "municipality_id": 366,
+        "name": "Sirijangha",
+        "alt_name": "सिरिजाङ्घा"
+    },
+    {
+        "municipality_id": 367,
+        "name": "Aathrai Triveni",
+        "alt_name": "आठराई त्रिवेणी"
+    },
+    {
+        "municipality_id": 368,
+        "name": "Pathibhara Yangwarak",
+        "alt_name": "पाथीभरा याङवारक"
+    },
+    {
+        "municipality_id": 369,
+        "name": "Meringden",
+        "alt_name": "Meringden"
+    },
+    {
+        "municipality_id": 370,
+        "name": "Sidingwa",
+        "alt_name": "सिडिङवा"
+    },
+    {
+        "municipality_id": 371,
+        "name": "Phaktanglung",
+        "alt_name": "फाक्ताङलुङ"
+    },
+    {
+        "municipality_id": 372,
+        "name": "Maiwa Khola",
+        "alt_name": "मैवा खोला"
+    },
+    {
+        "municipality_id": 373,
+        "name": "Mikwa Khola",
+        "alt_name": "मिक्वा खोला"
+    },
+    {
+        "municipality_id": 374,
+        "name": "Aathrai",
+        "alt_name": "आठराई"
+    },
+    {
+        "municipality_id": 375,
+        "name": "Phedap",
+        "alt_name": "फेडाप"
+    },
+    {
+        "municipality_id": 376,
+        "name": "Chhathar",
+        "alt_name": "छथर"
+    },
+    {
+        "municipality_id": 377,
+        "name": "Menchayayem",
+        "alt_name": "मेन्चायेम"
+    },
+    {
+        "municipality_id": 378,
+        "name": "Udayapurgadhi",
+        "alt_name": "उदयपुरगढी"
+    },
+    {
+        "municipality_id": 379,
+        "name": "Rautamai",
+        "alt_name": "रौतामाई"
+    },
+    {
+        "municipality_id": 380,
+        "name": "Tapli",
+        "alt_name": "तापली"
+    },
+    {
+        "municipality_id": 381,
+        "name": "Limchungbung",
+        "alt_name": "लिम्चुङबुङ"
+    },
+    {
+        "municipality_id": 382,
+        "name": "Subarna",
+        "alt_name": "सुवर्णा"
+    },
+    {
+        "municipality_id": 383,
+        "name": "Adarsha Kotwal",
+        "alt_name": "आदर्श कोतवाल"
+    },
+    {
+        "municipality_id": 384,
+        "name": "Baragadhi",
+        "alt_name": "बारागढी"
+    },
+    {
+        "municipality_id": 385,
+        "name": "Pheta",
+        "alt_name": "फेटा"
+    },
+    {
+        "municipality_id": 386,
+        "name": "Karaiyamai",
+        "alt_name": "करैयामाई"
+    },
+    {
+        "municipality_id": 387,
+        "name": "Prasauni",
+        "alt_name": "प्रसौनी"
+    },
+    {
+        "municipality_id": 388,
+        "name": "Bishrampur",
+        "alt_name": "बिश्रामपुर"
+    },
+    {
+        "municipality_id": 389,
+        "name": "Devtal",
+        "alt_name": "देवताल"
+    },
+    {
+        "municipality_id": 390,
+        "name": "Parawanipur",
+        "alt_name": "परवानीपुर"
+    },
+    {
+        "municipality_id": 391,
+        "name": "Laksminiya",
+        "alt_name": "लक्ष्मीनिया"
+    },
+    {
+        "municipality_id": 392,
+        "name": "Mukhiyapatti Musaharmiya",
+        "alt_name": "मुखियापट्टी मुसहर्मिया"
+    },
+    {
+        "municipality_id": 393,
+        "name": "Janak Nandini",
+        "alt_name": "जनक नन्दिनी"
+    },
+    {
+        "municipality_id": 394,
+        "name": "Aaurahi",
+        "alt_name": "औराही"
+    },
+    {
+        "municipality_id": 395,
+        "name": "Bateshwar",
+        "alt_name": "बटेश्वर"
+    },
+    {
+        "municipality_id": 396,
+        "name": "Dhanauji",
+        "alt_name": "धनौजी"
+    },
+    {
+        "municipality_id": 397,
+        "name": "Sonama",
+        "alt_name": "सोनामा"
+    },
+    {
+        "municipality_id": 398,
+        "name": "Pipara",
+        "alt_name": "पिपरा"
+    },
+    {
+        "municipality_id": 399,
+        "name": "Samsi",
+        "alt_name": "सम्सी"
+    },
+    {
+        "municipality_id": 400,
+        "name": "Ekdara",
+        "alt_name": "एकडारा"
+    },
+    {
+        "municipality_id": 401,
+        "name": "Mahottari Rural Municipality",
+        "alt_name": "महोत्तरी गाउँपालिका"
+    },
+    {
+        "municipality_id": 402,
+        "name": "Sakhuwa Prasauni",
+        "alt_name": "सखुवा प्रसौनी"
+    },
+    {
+        "municipality_id": 403,
+        "name": "Jagarnathpur",
+        "alt_name": "जगरनाथपुर"
+    },
+    {
+        "municipality_id": 404,
+        "name": "Chhipaharmai",
+        "alt_name": "छिपहरमाई"
+    },
+    {
+        "municipality_id": 405,
+        "name": "Bindabasini",
+        "alt_name": "बिन्दवासिनी"
+    },
+    {
+        "municipality_id": 406,
+        "name": "Paterwa Sugauli",
+        "alt_name": "पटेरवा सुगौली"
+    },
+    {
+        "municipality_id": 407,
+        "name": "Jeera Bhavani",
+        "alt_name": "जीरा भवानी"
+    },
+    {
+        "municipality_id": 408,
+        "name": "Kalikamai",
+        "alt_name": "कालिकामाई"
+    },
+    {
+        "municipality_id": 409,
+        "name": "Pakaha Mainpur",
+        "alt_name": "पकाहा मैनपुर"
+    },
+    {
+        "municipality_id": 410,
+        "name": "Thori",
+        "alt_name": "थोरी"
+    },
+    {
+        "municipality_id": 411,
+        "name": "Dhobini",
+        "alt_name": "धोबिनी"
+    },
+    {
+        "municipality_id": 412,
+        "name": "Durga Bhagawati",
+        "alt_name": "दुर्गा भगवती"
+    },
+    {
+        "municipality_id": 413,
+        "name": "Yamunamai",
+        "alt_name": "यमुनामाई"
+    },
+    {
+        "municipality_id": 414,
+        "name": "Tilathi Koiladi",
+        "alt_name": "तिलाठी कोइलाडी"
+    },
+    {
+        "municipality_id": 415,
+        "name": "Belhi Chapena",
+        "alt_name": "बेल्ही चापेना"
+    },
+    {
+        "municipality_id": 416,
+        "name": "Chhinnamasta",
+        "alt_name": "छिन्नमस्ता"
+    },
+    {
+        "municipality_id": 417,
+        "name": "Mahadeva",
+        "alt_name": "महादेव"
+    },
+    {
+        "municipality_id": 418,
+        "name": "Aagnisaira Krishnasawaran",
+        "alt_name": "अग्निसाइरा कृष्णस्वरण"
+    },
+    {
+        "municipality_id": 419,
+        "name": "Rupani",
+        "alt_name": "रुपानी"
+    },
+    {
+        "municipality_id": 420,
+        "name": "Balan-Bihul",
+        "alt_name": "बालन-बिहुल"
+    },
+    {
+        "municipality_id": 421,
+        "name": "Bishnupur",
+        "alt_name": "विष्णुपुर"
+    },
+    {
+        "municipality_id": 422,
+        "name": "Tirhut",
+        "alt_name": "तिर्हुत"
+    },
+    {
+        "municipality_id": 423,
+        "name": "Chandranagar",
+        "alt_name": "चन्द्रनगर"
+    },
+    {
+        "municipality_id": 424,
+        "name": "Bramhapuri",
+        "alt_name": "ब्रम्हपुरी"
+    },
+    {
+        "municipality_id": 425,
+        "name": "Ramnagar",
+        "alt_name": "रामनगर"
+    },
+    {
+        "municipality_id": 426,
+        "name": "Chakraghatta",
+        "alt_name": "चक्रघट्टा"
+    },
+    {
+        "municipality_id": 427,
+        "name": "Kaudena",
+        "alt_name": "कौडेना"
+    },
+    {
+        "municipality_id": 428,
+        "name": "Dhankaul",
+        "alt_name": "धनकौल"
+    },
+    {
+        "municipality_id": 429,
+        "name": "Bishnu",
+        "alt_name": "विष्णु"
+    },
+    {
+        "municipality_id": 430,
+        "name": "Basbariya",
+        "alt_name": "बासबरिया"
+    },
+    {
+        "municipality_id": 431,
+        "name": "Parsa",
+        "alt_name": "पर्सा"
+    },
+    {
+        "municipality_id": 432,
+        "name": "Laksmipur Patari",
+        "alt_name": "लक्ष्मीपुर पटारी"
+    },
+    {
+        "municipality_id": 433,
+        "name": "Bariyarpatti",
+        "alt_name": "बरियारपट्टी"
+    },
+    {
+        "municipality_id": 434,
+        "name": "Aaurahi",
+        "alt_name": "औराही"
+    },
+    {
+        "municipality_id": 435,
+        "name": "Arnama",
+        "alt_name": "अर्नामा"
+    },
+    {
+        "municipality_id": 436,
+        "name": "Bhagawanpur",
+        "alt_name": "भगवानपुर"
+    },
+    {
+        "municipality_id": 437,
+        "name": "Naraha",
+        "alt_name": "नरहा"
+    },
+    {
+        "municipality_id": 438,
+        "name": "Nawarajpur",
+        "alt_name": "नवराजपुर"
+    },
+    {
+        "municipality_id": 439,
+        "name": "Sakhuwanankarkatti",
+        "alt_name": "सखुवानङ्करकट्टी"
+    },
+    {
+        "municipality_id": 440,
+        "name": "Bishnupur",
+        "alt_name": "विष्णुपुर"
+    },
+    {
+        "municipality_id": 441,
+        "name": "Ichchhakamana",
+        "alt_name": "इच्छाकामना"
+    },
+    {
+        "municipality_id": 442,
+        "name": "Thakre",
+        "alt_name": "ठाकरे"
+    },
+    {
+        "municipality_id": 443,
+        "name": "Benighat Rorang",
+        "alt_name": "बेनिघाट रोराङ"
+    },
+    {
+        "municipality_id": 444,
+        "name": "Galchhi",
+        "alt_name": "गल्छी"
+    },
+    {
+        "municipality_id": 445,
+        "name": "Gajuri",
+        "alt_name": "गजुरी"
+    },
+    {
+        "municipality_id": 446,
+        "name": "Jwalamukhi",
+        "alt_name": "ज्वालामुखी"
+    },
+    {
+        "municipality_id": 447,
+        "name": "Siddhalekh",
+        "alt_name": "सिद्धलेख"
+    },
+    {
+        "municipality_id": 448,
+        "name": "Tripura Sundari",
+        "alt_name": "त्रिपुरा सुन्दरी"
+    },
+    {
+        "municipality_id": 449,
+        "name": "Gangajamuna",
+        "alt_name": "गंगाजमुना"
+    },
+    {
+        "municipality_id": 450,
+        "name": "Netrawati Dabjong",
+        "alt_name": "नेत्रावती डब्जोङ"
+    },
+    {
+        "municipality_id": 451,
+        "name": "Khaniyabas",
+        "alt_name": "खानियाबास"
+    },
+    {
+        "municipality_id": 452,
+        "name": "Ruby Valley",
+        "alt_name": "रुबी उपत्यका"
+    },
+    {
+        "municipality_id": 453,
+        "name": "Kalinchok",
+        "alt_name": "कालिञ्चोक"
+    },
+    {
+        "municipality_id": 454,
+        "name": "Melung",
+        "alt_name": "मेलुङ"
+    },
+    {
+        "municipality_id": 455,
+        "name": "Shailung",
+        "alt_name": "शैलुङ"
+    },
+    {
+        "municipality_id": 456,
+        "name": "Baiteshwar",
+        "alt_name": "बैतेश्वर"
+    },
+    {
+        "municipality_id": 457,
+        "name": "Tamakoshi",
+        "alt_name": "तामाकोशी"
+    },
+    {
+        "municipality_id": 458,
+        "name": "Bigu",
+        "alt_name": "बिगु"
+    },
+    {
+        "municipality_id": 459,
+        "name": "Gaurishankar",
+        "alt_name": "गौरीशंकर"
+    },
+    {
+        "municipality_id": 460,
+        "name": "Roshi",
+        "alt_name": "रोशी"
+    },
+    {
+        "municipality_id": 461,
+        "name": "Temal",
+        "alt_name": "तेमल"
+    },
+    {
+        "municipality_id": 462,
+        "name": "Chaunri Deurali",
+        "alt_name": "चौंरी देउराली"
+    },
+    {
+        "municipality_id": 463,
+        "name": "Bhumlu",
+        "alt_name": "भुम्लु"
+    },
+    {
+        "municipality_id": 464,
+        "name": "Mahabharat",
+        "alt_name": "महाभारत"
+    },
+    {
+        "municipality_id": 465,
+        "name": "Bethanchok",
+        "alt_name": "बेथानचोक"
+    },
+    {
+        "municipality_id": 466,
+        "name": "Khanikhola",
+        "alt_name": "खानीखोला"
+    },
+    {
+        "municipality_id": 467,
+        "name": "Bagmati",
+        "alt_name": "बागमती"
+    },
+    {
+        "municipality_id": 468,
+        "name": "Konjyosom",
+        "alt_name": "कोन्ज्योसोम"
+    },
+    {
+        "municipality_id": 469,
+        "name": "Mahankal",
+        "alt_name": "महांकाल"
+    },
+    {
+        "municipality_id": 470,
+        "name": "Bakaiya",
+        "alt_name": "बकैया"
+    },
+    {
+        "municipality_id": 471,
+        "name": "Manhari",
+        "alt_name": "मनहरी"
+    },
+    {
+        "municipality_id": 472,
+        "name": "Bagmati",
+        "alt_name": "बागमती"
+    },
+    {
+        "municipality_id": 473,
+        "name": "Raksirang",
+        "alt_name": "रक्सिराङ"
+    },
+    {
+        "municipality_id": 474,
+        "name": "Makawanpurgadhi",
+        "alt_name": "मकवानपुरगढी"
+    },
+    {
+        "municipality_id": 475,
+        "name": "Kailash",
+        "alt_name": "कैलाश"
+    },
+    {
+        "municipality_id": 476,
+        "name": "Bhimphedi",
+        "alt_name": "भीमफेदी"
+    },
+    {
+        "municipality_id": 477,
+        "name": "Indrasarowar",
+        "alt_name": "इन्द्रसरोवर"
+    },
+    {
+        "municipality_id": 478,
+        "name": "Kakani",
+        "alt_name": "ककनी"
+    },
+    {
+        "municipality_id": 479,
+        "name": "Dupcheshwar",
+        "alt_name": "दुप्चेश्वर"
+    },
+    {
+        "municipality_id": 480,
+        "name": "Shivapuri",
+        "alt_name": "शिवपुरी"
+    },
+    {
+        "municipality_id": 481,
+        "name": "Tadi",
+        "alt_name": "ताडी"
+    },
+    {
+        "municipality_id": 482,
+        "name": "Likhu",
+        "alt_name": "लिखु"
+    },
+    {
+        "municipality_id": 483,
+        "name": "Suryagadhi",
+        "alt_name": "सुर्यगढी"
+    },
+    {
+        "municipality_id": 484,
+        "name": "Panchakanya",
+        "alt_name": "पञ्चकन्या"
+    },
+    {
+        "municipality_id": 485,
+        "name": "Tarkeshwar",
+        "alt_name": "तारकेश्वर"
+    },
+    {
+        "municipality_id": 486,
+        "name": "Kispang",
+        "alt_name": "किस्पाङ"
+    },
+    {
+        "municipality_id": 487,
+        "name": "Myagang",
+        "alt_name": "म्यागाङ"
+    },
+    {
+        "municipality_id": 488,
+        "name": "Khandadevi",
+        "alt_name": "खाण्डादेवी"
+    },
+    {
+        "municipality_id": 489,
+        "name": "Likhu Tamakoshi",
+        "alt_name": "लिखु तामाकोशी"
+    },
+    {
+        "municipality_id": 490,
+        "name": "Doramba",
+        "alt_name": "दोरम्बा"
+    },
+    {
+        "municipality_id": 491,
+        "name": "Gokulganga",
+        "alt_name": "गोकुलगंगा"
+    },
+    {
+        "municipality_id": 492,
+        "name": "Sunapati",
+        "alt_name": "सुनापति"
+    },
+    {
+        "municipality_id": 493,
+        "name": "Umakunda",
+        "alt_name": "उमाकुण्ड"
+    },
+    {
+        "municipality_id": 494,
+        "name": "Naukunda",
+        "alt_name": "नौकुण्ड"
+    },
+    {
+        "municipality_id": 495,
+        "name": "Kalika",
+        "alt_name": "कालिका"
+    },
+    {
+        "municipality_id": 496,
+        "name": "Uttargaya",
+        "alt_name": "उत्तरगया"
+    },
+    {
+        "municipality_id": 497,
+        "name": "Gosaikund",
+        "alt_name": "गोसाइकुण्ड"
+    },
+    {
+        "municipality_id": 498,
+        "name": "Aamachodingmo",
+        "alt_name": "आमचोडिङ्मो"
+    },
+    {
+        "municipality_id": 499,
+        "name": "Tinpatan",
+        "alt_name": "तिनपाटन"
+    },
+    {
+        "municipality_id": 500,
+        "name": "Marin",
+        "alt_name": "मारिन"
+    },
+    {
+        "municipality_id": 501,
+        "name": "Hariharpurgadhi",
+        "alt_name": "हरिहरपुरगढी"
+    },
+    {
+        "municipality_id": 502,
+        "name": "Sunkoshi",
+        "alt_name": "सुनकोशी"
+    },
+    {
+        "municipality_id": 503,
+        "name": "Golanjor",
+        "alt_name": "गोलन्जोर"
+    },
+    {
+        "municipality_id": 504,
+        "name": "Phikkal",
+        "alt_name": "फिक्कल"
+    },
+    {
+        "municipality_id": 505,
+        "name": "Ghyanglekh",
+        "alt_name": "ग्याङ्लेख"
+    },
+    {
+        "municipality_id": 506,
+        "name": "Indrawati",
+        "alt_name": "इन्द्रावती"
+    },
+    {
+        "municipality_id": 507,
+        "name": "Panchpokhari Thangpal",
+        "alt_name": "पाँचपोखरी थाङ्पाल"
+    },
+    {
+        "municipality_id": 508,
+        "name": "Jugal",
+        "alt_name": "जुगल"
+    },
+    {
+        "municipality_id": 509,
+        "name": "Balephi",
+        "alt_name": "बलेफी"
+    },
+    {
+        "municipality_id": 510,
+        "name": "Helambu",
+        "alt_name": "हेलम्बु"
+    },
+    {
+        "municipality_id": 511,
+        "name": "Bhotekoshi",
+        "alt_name": "भोटेकोशी"
+    },
+    {
+        "municipality_id": 512,
+        "name": "Sunkoshi",
+        "alt_name": "सुनकोशी"
+    },
+    {
+        "municipality_id": 513,
+        "name": "Lisankhu Pakhar",
+        "alt_name": "लिसांखु पाखर"
+    },
+    {
+        "municipality_id": 514,
+        "name": "Tripura Sundari",
+        "alt_name": "त्रिपुरा सुन्दरी"
+    },
+    {
+        "municipality_id": 515,
+        "name": "Badigad",
+        "alt_name": "बडिगाड"
+    },
+    {
+        "municipality_id": 516,
+        "name": "Kathekhola",
+        "alt_name": "काठेखोला"
+    },
+    {
+        "municipality_id": 517,
+        "name": "Nisikhola",
+        "alt_name": "निसिखोला"
+    },
+    {
+        "municipality_id": 518,
+        "name": "Bareng",
+        "alt_name": "बरेङ"
+    },
+    {
+        "municipality_id": 519,
+        "name": "Tarakhola",
+        "alt_name": "ताराखोला"
+    },
+    {
+        "municipality_id": 520,
+        "name": "Tamankhola",
+        "alt_name": "तमखोला"
+    },
+    {
+        "municipality_id": 521,
+        "name": "Shahid Lakhan",
+        "alt_name": "शाहिद लखन"
+    },
+    {
+        "municipality_id": 522,
+        "name": "Barpak Sulikot",
+        "alt_name": "बारपाक सुलिकोट"
+    },
+    {
+        "municipality_id": 523,
+        "name": "Aarughat",
+        "alt_name": "आरुघाट"
+    },
+    {
+        "municipality_id": 524,
+        "name": "Siranchok",
+        "alt_name": "सिरञ्चोक"
+    },
+    {
+        "municipality_id": 525,
+        "name": "Gandaki",
+        "alt_name": "गण्डकी"
+    },
+    {
+        "municipality_id": 526,
+        "name": "Bhimsen Thapa",
+        "alt_name": "भीमसेन थापा"
+    },
+    {
+        "municipality_id": 527,
+        "name": "Ajirkot",
+        "alt_name": "अजिरकोट"
+    },
+    {
+        "municipality_id": 528,
+        "name": "Dharche",
+        "alt_name": "धार्चे"
+    },
+    {
+        "municipality_id": 529,
+        "name": "Chum Nubri",
+        "alt_name": "चुम नुब्री"
+    },
+    {
+        "municipality_id": 530,
+        "name": "Annapurna",
+        "alt_name": "अन्नपूर्ण"
+    },
+    {
+        "municipality_id": 531,
+        "name": "Machhapuchhre",
+        "alt_name": "माछापुच्छ्रे"
+    },
+    {
+        "municipality_id": 532,
+        "name": "Madi",
+        "alt_name": "माडी"
+    },
+    {
+        "municipality_id": 533,
+        "name": "Rupa",
+        "alt_name": "रुपा"
+    },
+    {
+        "municipality_id": 534,
+        "name": "Marsyangdi",
+        "alt_name": "मर्स्याङ्दी"
+    },
+    {
+        "municipality_id": 535,
+        "name": "Dordi",
+        "alt_name": "दोर्दी"
+    },
+    {
+        "municipality_id": 536,
+        "name": "Dudhpokhari",
+        "alt_name": "दूधपोखरी"
+    },
+    {
+        "municipality_id": 537,
+        "name": "Kwaholasothar",
+        "alt_name": "क्वाहोलासोथर"
+    },
+    {
+        "municipality_id": 538,
+        "name": "Manang Disyang",
+        "alt_name": "मनाङ दिस्याङ"
+    },
+    {
+        "municipality_id": 539,
+        "name": "Nason",
+        "alt_name": "नासन"
+    },
+    {
+        "municipality_id": 540,
+        "name": "Chame",
+        "alt_name": "चामे"
+    },
+    {
+        "municipality_id": 541,
+        "name": "Narpa Bhumi",
+        "alt_name": "नरपा भूमि"
+    },
+    {
+        "municipality_id": 542,
+        "name": "Gharpajhong",
+        "alt_name": "घरपाझोङ"
+    },
+    {
+        "municipality_id": 543,
+        "name": "Thasang",
+        "alt_name": "थासाङ"
+    },
+    {
+        "municipality_id": 544,
+        "name": "Baragung Muktichhetra",
+        "alt_name": "बारागुङ मुक्तिक्षेत्र"
+    },
+    {
+        "municipality_id": 545,
+        "name": "Lomanthang",
+        "alt_name": "लोमान्थाङ"
+    },
+    {
+        "municipality_id": 546,
+        "name": "Lo-Thekar Damodarkunda",
+        "alt_name": "लो-थेकर दामोदरकुण्ड"
+    },
+    {
+        "municipality_id": 547,
+        "name": "Malika",
+        "alt_name": "मलिका"
+    },
+    {
+        "municipality_id": 548,
+        "name": "Mangala",
+        "alt_name": "मंगला"
+    },
+    {
+        "municipality_id": 549,
+        "name": "Raghuganga",
+        "alt_name": "रघुगंगा"
+    },
+    {
+        "municipality_id": 550,
+        "name": "Dhaulagiri",
+        "alt_name": "धौलागिरी"
+    },
+    {
+        "municipality_id": 551,
+        "name": "Annapurna",
+        "alt_name": "अन्नपूर्ण"
+    },
+    {
+        "municipality_id": 552,
+        "name": "Hupsekot",
+        "alt_name": "हुप्सेकोट"
+    },
+    {
+        "municipality_id": 553,
+        "name": "Binayi Triveni",
+        "alt_name": "विनय त्रिवेणी"
+    },
+    {
+        "municipality_id": 554,
+        "name": "Bulingtar",
+        "alt_name": "बुलिङटार"
+    },
+    {
+        "municipality_id": 555,
+        "name": "Baudikali",
+        "alt_name": "बौदिकाली"
+    },
+    {
+        "municipality_id": 556,
+        "name": "Jaljala",
+        "alt_name": "जलजला"
+    },
+    {
+        "municipality_id": 557,
+        "name": "Modi",
+        "alt_name": "मोदी"
+    },
+    {
+        "municipality_id": 558,
+        "name": "Painyu",
+        "alt_name": "पाइन्यु"
+    },
+    {
+        "municipality_id": 559,
+        "name": "Bihadi",
+        "alt_name": "बिहादी"
+    },
+    {
+        "municipality_id": 560,
+        "name": "Mahashila",
+        "alt_name": "महाशिला"
+    },
+    {
+        "municipality_id": 561,
+        "name": "Kaligandaki",
+        "alt_name": "कालीगण्डकी"
+    },
+    {
+        "municipality_id": 562,
+        "name": "Biruwa",
+        "alt_name": "बिरुवा"
+    },
+    {
+        "municipality_id": 563,
+        "name": "Harinas",
+        "alt_name": "हरिनास"
+    },
+    {
+        "municipality_id": 564,
+        "name": "Aandhikhola",
+        "alt_name": "आँधीखोला"
+    },
+    {
+        "municipality_id": 565,
+        "name": "Arjun Chaupari",
+        "alt_name": "अर्जुन चौपारी"
+    },
+    {
+        "municipality_id": 566,
+        "name": "Phedikhola",
+        "alt_name": "फेदीखोला"
+    },
+    {
+        "municipality_id": 567,
+        "name": "Rishing",
+        "alt_name": "रिसिङ"
+    },
+    {
+        "municipality_id": 568,
+        "name": "Myagde",
+        "alt_name": "म्याग्दे"
+    },
+    {
+        "municipality_id": 569,
+        "name": "Aanbu Khaireni",
+        "alt_name": "आन्बु खैरेनी"
+    },
+    {
+        "municipality_id": 570,
+        "name": "Bandipur",
+        "alt_name": "बन्दीपुर"
+    },
+    {
+        "municipality_id": 571,
+        "name": "Ghiring",
+        "alt_name": "घिरिङ"
+    },
+    {
+        "municipality_id": 572,
+        "name": "Devghat",
+        "alt_name": "देवघाट"
+    },
+    {
+        "municipality_id": 573,
+        "name": "Malarani",
+        "alt_name": "मलारानी"
+    },
+    {
+        "municipality_id": 574,
+        "name": "Pandini",
+        "alt_name": "पाण्डिनी"
+    },
+    {
+        "municipality_id": 575,
+        "name": "Chhatradev",
+        "alt_name": "छत्रदेव"
+    },
+    {
+        "municipality_id": 576,
+        "name": "Raptisonari",
+        "alt_name": "राप्तिसोनारी"
+    },
+    {
+        "municipality_id": 577,
+        "name": "Baijnath",
+        "alt_name": "बैजनाथ"
+    },
+    {
+        "municipality_id": 578,
+        "name": "Khajura",
+        "alt_name": "खजुरा"
+    },
+    {
+        "municipality_id": 579,
+        "name": "Janaki",
+        "alt_name": "जानकी"
+    },
+    {
+        "municipality_id": 580,
+        "name": "Duduwa",
+        "alt_name": "डुडुवा"
+    },
+    {
+        "municipality_id": 581,
+        "name": "Narainapur",
+        "alt_name": "नरैनापुर"
+    },
+    {
+        "municipality_id": 582,
+        "name": "Badhaiyatal",
+        "alt_name": "बढैयाताल"
+    },
+    {
+        "municipality_id": 583,
+        "name": "Geruwa",
+        "alt_name": "गेरुवा"
+    },
+    {
+        "municipality_id": 584,
+        "name": "Rapti",
+        "alt_name": "राप्ती"
+    },
+    {
+        "municipality_id": 585,
+        "name": "Gadhawa",
+        "alt_name": "गढवा"
+    },
+    {
+        "municipality_id": 586,
+        "name": "Babai",
+        "alt_name": "बबई"
+    },
+    {
+        "municipality_id": 587,
+        "name": "Shantinagar",
+        "alt_name": "शान्तिनगर"
+    },
+    {
+        "municipality_id": 588,
+        "name": "Rajpur",
+        "alt_name": "राजपुर"
+    },
+    {
+        "municipality_id": 589,
+        "name": "Banglachuli",
+        "alt_name": "बंगलाचुली"
+    },
+    {
+        "municipality_id": 590,
+        "name": "Dangisharan",
+        "alt_name": "दंगिशरण"
+    },
+    {
+        "municipality_id": 591,
+        "name": "Satyawati",
+        "alt_name": "सत्यवती"
+    },
+    {
+        "municipality_id": 592,
+        "name": "Dhurkot",
+        "alt_name": "धुर्कोट"
+    },
+    {
+        "municipality_id": 593,
+        "name": "Gulmi Durbar",
+        "alt_name": "गुल्मी दरबार"
+    },
+    {
+        "municipality_id": 594,
+        "name": "Madane",
+        "alt_name": "मदने"
+    },
+    {
+        "municipality_id": 595,
+        "name": "Chandrakot",
+        "alt_name": "चन्द्रकोट"
+    },
+    {
+        "municipality_id": 596,
+        "name": "Malika",
+        "alt_name": "मलिका"
+    },
+    {
+        "municipality_id": 597,
+        "name": "Chhatrakot",
+        "alt_name": "छत्रकोट"
+    },
+    {
+        "municipality_id": 598,
+        "name": "Isma",
+        "alt_name": "इस्मा"
+    },
+    {
+        "municipality_id": 599,
+        "name": "Kaligandaki",
+        "alt_name": "कालीगण्डकी"
+    },
+    {
+        "municipality_id": 600,
+        "name": "Ruru",
+        "alt_name": "रुरु"
+    },
+    {
+        "municipality_id": 601,
+        "name": "Mayadevi",
+        "alt_name": "मायादेवी"
+    },
+    {
+        "municipality_id": 602,
+        "name": "Shuddhodhan",
+        "alt_name": "शुद्धोधन"
+    },
+    {
+        "municipality_id": 603,
+        "name": "Yasodhara",
+        "alt_name": "यशोधरा"
+    },
+    {
+        "municipality_id": 604,
+        "name": "Bijaynagar",
+        "alt_name": "विजयनगर"
+    },
+    {
+        "municipality_id": 605,
+        "name": "Triveni Susta",
+        "alt_name": "त्रिवेणी सुस्ता"
+    },
+    {
+        "municipality_id": 606,
+        "name": "Pratappur",
+        "alt_name": "प्रतापपुर"
+    },
+    {
+        "municipality_id": 607,
+        "name": "Sarawal",
+        "alt_name": "सरवल"
+    },
+    {
+        "municipality_id": 608,
+        "name": "Palhi Nandan",
+        "alt_name": "पाल्ही नन्दन"
+    },
+    {
+        "municipality_id": 609,
+        "name": "Rainadevi Chhahara",
+        "alt_name": "रैनादेवी छहरा"
+    },
+    {
+        "municipality_id": 610,
+        "name": "Mathagadhi",
+        "alt_name": "मठगढी"
+    },
+    {
+        "municipality_id": 611,
+        "name": "Nisdi",
+        "alt_name": "निस्दी"
+    },
+    {
+        "municipality_id": 612,
+        "name": "Bagnaskali",
+        "alt_name": "बागनास्कली"
+    },
+    {
+        "municipality_id": 613,
+        "name": "Rambha",
+        "alt_name": "रम्भा"
+    },
+    {
+        "municipality_id": 614,
+        "name": "Purbakhola",
+        "alt_name": "पूर्वखोला"
+    },
+    {
+        "municipality_id": 615,
+        "name": "Tinau",
+        "alt_name": "तिनाउ"
+    },
+    {
+        "municipality_id": 616,
+        "name": "Ribdikot",
+        "alt_name": "रिब्दीकोट"
+    },
+    {
+        "municipality_id": 617,
+        "name": "Naubahini",
+        "alt_name": "नौबहिनी"
+    },
+    {
+        "municipality_id": 618,
+        "name": "Jhimaruk",
+        "alt_name": "झिमरुक"
+    },
+    {
+        "municipality_id": 619,
+        "name": "Gaumukhi",
+        "alt_name": "गौमुखी"
+    },
+    {
+        "municipality_id": 620,
+        "name": "Airawati",
+        "alt_name": "ऐरावती"
+    },
+    {
+        "municipality_id": 621,
+        "name": "Sarumarani",
+        "alt_name": "सरूमरानी"
+    },
+    {
+        "municipality_id": 622,
+        "name": "Mallarani",
+        "alt_name": "मल्लरानी"
+    },
+    {
+        "municipality_id": 623,
+        "name": "Mandavi",
+        "alt_name": "मांडवी"
+    },
+    {
+        "municipality_id": 624,
+        "name": "Sunil Smriti",
+        "alt_name": "सुनिल स्मृति"
+    },
+    {
+        "municipality_id": 625,
+        "name": "Runtigadhi",
+        "alt_name": "रुन्टीगढी"
+    },
+    {
+        "municipality_id": 626,
+        "name": "Lungri",
+        "alt_name": "लुङ्गरी"
+    },
+    {
+        "municipality_id": 627,
+        "name": "Triveni",
+        "alt_name": "त्रिवेणी"
+    },
+    {
+        "municipality_id": 628,
+        "name": "Paribartan",
+        "alt_name": "परिवर्तन"
+    },
+    {
+        "municipality_id": 629,
+        "name": "Gangadev",
+        "alt_name": "गंगादेव"
+    },
+    {
+        "municipality_id": 630,
+        "name": "Madi",
+        "alt_name": "माडी"
+    },
+    {
+        "municipality_id": 631,
+        "name": "Sunchhahari",
+        "alt_name": "सुनछहरी"
+    },
+    {
+        "municipality_id": 632,
+        "name": "Thawang",
+        "alt_name": "थवाङ"
+    },
+    {
+        "municipality_id": 633,
+        "name": "Bhume",
+        "alt_name": "भुमे"
+    },
+    {
+        "municipality_id": 634,
+        "name": "Putha Uttarganga",
+        "alt_name": "पुथा उत्तरगंगा"
+    },
+    {
+        "municipality_id": 635,
+        "name": "Sisne",
+        "alt_name": "सिस्ने"
+    },
+    {
+        "municipality_id": 636,
+        "name": "Gaidhawa",
+        "alt_name": "गैधवा"
+    },
+    {
+        "municipality_id": 637,
+        "name": "Mayadevi",
+        "alt_name": "मायादेवी"
+    },
+    {
+        "municipality_id": 638,
+        "name": "Kotahimai",
+        "alt_name": "कोटाहिमाई"
+    },
+    {
+        "municipality_id": 639,
+        "name": "Marchawarimai",
+        "alt_name": "मार्चवारीमाई"
+    },
+    {
+        "municipality_id": 640,
+        "name": "Siyari",
+        "alt_name": "सियारी"
+    },
+    {
+        "municipality_id": 641,
+        "name": "Sammarimai",
+        "alt_name": "समरीमाई"
+    },
+    {
+        "municipality_id": 642,
+        "name": "Rohini",
+        "alt_name": "रोहिणी"
+    },
+    {
+        "municipality_id": 643,
+        "name": "Shuddhodhan",
+        "alt_name": "शुद्धोधन"
+    },
+    {
+        "municipality_id": 644,
+        "name": "Om Satiya",
+        "alt_name": "ओम सतिया"
+    },
+    {
+        "municipality_id": 645,
+        "name": "Kanchan",
+        "alt_name": "कञ्चन"
+    },
+    {
+        "municipality_id": 646,
+        "name": "Gurans",
+        "alt_name": "गुराँस"
+    },
+    {
+        "municipality_id": 647,
+        "name": "Bhairabi",
+        "alt_name": "भैरवी"
+    },
+    {
+        "municipality_id": 648,
+        "name": "Naumule",
+        "alt_name": "नौमुले"
+    },
+    {
+        "municipality_id": 649,
+        "name": "Mahabu",
+        "alt_name": "महाबु"
+    },
+    {
+        "municipality_id": 650,
+        "name": "Thantikandh",
+        "alt_name": "ठान्टिकाण्ड"
+    },
+    {
+        "municipality_id": 651,
+        "name": "Bhagawatimai",
+        "alt_name": "भगवतीमाई"
+    },
+    {
+        "municipality_id": 652,
+        "name": "Dungeshwar",
+        "alt_name": "डुङ्गेश्वर"
+    },
+    {
+        "municipality_id": 653,
+        "name": "Mudkechula",
+        "alt_name": "मुड्केचुला"
+    },
+    {
+        "municipality_id": 654,
+        "name": "Kaike",
+        "alt_name": "काइके"
+    },
+    {
+        "municipality_id": 655,
+        "name": "She Phoksundo",
+        "alt_name": "उनी फोक्सुण्डो"
+    },
+    {
+        "municipality_id": 656,
+        "name": "Jagadulla",
+        "alt_name": "जगदुल्ला"
+    },
+    {
+        "municipality_id": 657,
+        "name": "Dolpo Buddha",
+        "alt_name": "डोल्पो बुद्ध"
+    },
+    {
+        "municipality_id": 658,
+        "name": "Chharka Tangsong",
+        "alt_name": "छर्का ताङसोङ"
+    },
+    {
+        "municipality_id": 659,
+        "name": "Simkot",
+        "alt_name": "सिमकोट"
+    },
+    {
+        "municipality_id": 660,
+        "name": "Sarkegad",
+        "alt_name": "सार्केगड"
+    },
+    {
+        "municipality_id": 661,
+        "name": "Adanchuli",
+        "alt_name": "अडांचुली"
+    },
+    {
+        "municipality_id": 662,
+        "name": "Kharpunath",
+        "alt_name": "खार्पुनाथ"
+    },
+    {
+        "municipality_id": 663,
+        "name": "Tanjakot",
+        "alt_name": "तान्जाकोट"
+    },
+    {
+        "municipality_id": 664,
+        "name": "Chankheli",
+        "alt_name": "चनखेली"
+    },
+    {
+        "municipality_id": 665,
+        "name": "Namkha",
+        "alt_name": "नम्खा"
+    },
+    {
+        "municipality_id": 666,
+        "name": "Junichande",
+        "alt_name": "जुनिचन्दे"
+    },
+    {
+        "municipality_id": 667,
+        "name": "Kuse",
+        "alt_name": "कुसे"
+    },
+    {
+        "municipality_id": 668,
+        "name": "Barekot",
+        "alt_name": "बारेकोट"
+    },
+    {
+        "municipality_id": 669,
+        "name": "Shivalaya",
+        "alt_name": "शिवालय"
+    },
+    {
+        "municipality_id": 670,
+        "name": "Tatopani",
+        "alt_name": "तातोपानी"
+    },
+    {
+        "municipality_id": 671,
+        "name": "Patarasi",
+        "alt_name": "पटरासी"
+    },
+    {
+        "municipality_id": 672,
+        "name": "Tila",
+        "alt_name": "तिला"
+    },
+    {
+        "municipality_id": 673,
+        "name": "Kanaka Sundari",
+        "alt_name": "कनक सुन्दरी"
+    },
+    {
+        "municipality_id": 674,
+        "name": "Sinja",
+        "alt_name": "सिन्जा"
+    },
+    {
+        "municipality_id": 675,
+        "name": "Hima",
+        "alt_name": "हिमा"
+    },
+    {
+        "municipality_id": 676,
+        "name": "Guthichaur",
+        "alt_name": "गुठीचौर"
+    },
+    {
+        "municipality_id": 677,
+        "name": "Narharinath",
+        "alt_name": "नरहरिनाथ"
+    },
+    {
+        "municipality_id": 678,
+        "name": "Palata",
+        "alt_name": "पलाता"
+    },
+    {
+        "municipality_id": 679,
+        "name": "Shubha Kalika",
+        "alt_name": "शुभ कालिका"
+    },
+    {
+        "municipality_id": 680,
+        "name": "Sanni Triveni",
+        "alt_name": "सन्नी त्रिवेणी"
+    },
+    {
+        "municipality_id": 681,
+        "name": "Pachaljharana",
+        "alt_name": "पाँचलझरना"
+    },
+    {
+        "municipality_id": 682,
+        "name": "Mahawai",
+        "alt_name": "महावाई"
+    },
+    {
+        "municipality_id": 683,
+        "name": "Khatyad",
+        "alt_name": "खत्याड"
+    },
+    {
+        "municipality_id": 684,
+        "name": "Soru",
+        "alt_name": "सोरु"
+    },
+    {
+        "municipality_id": 685,
+        "name": "Mugum Karmarong",
+        "alt_name": "मुगुम कर्मारोङ"
+    },
+    {
+        "municipality_id": 686,
+        "name": "Sani Bheri",
+        "alt_name": "सानी भेरी"
+    },
+    {
+        "municipality_id": 687,
+        "name": "Triveni",
+        "alt_name": "त्रिवेणी"
+    },
+    {
+        "municipality_id": 688,
+        "name": "Banphikot",
+        "alt_name": "बनफीकोट"
+    },
+    {
+        "municipality_id": 689,
+        "name": "Kumakh",
+        "alt_name": "कुमाख"
+    },
+    {
+        "municipality_id": 690,
+        "name": "Kalimati",
+        "alt_name": "कालीमाटी"
+    },
+    {
+        "municipality_id": 691,
+        "name": "Chhatreshwari",
+        "alt_name": "छत्रेश्वरी"
+    },
+    {
+        "municipality_id": 692,
+        "name": "Darma",
+        "alt_name": "डार्मा"
+    },
+    {
+        "municipality_id": 693,
+        "name": "Kapurkot",
+        "alt_name": "कपुरकोट"
+    },
+    {
+        "municipality_id": 694,
+        "name": "Triveni",
+        "alt_name": "त्रिवेणी"
+    },
+    {
+        "municipality_id": 695,
+        "name": "Siddha Kumakh",
+        "alt_name": "सिद्ध कुमाख"
+    },
+    {
+        "municipality_id": 696,
+        "name": "Barahatal",
+        "alt_name": "बाराहतल"
+    },
+    {
+        "municipality_id": 697,
+        "name": "Simta",
+        "alt_name": "सिम्ता"
+    },
+    {
+        "municipality_id": 698,
+        "name": "Chaukune",
+        "alt_name": "चौकुने"
+    },
+    {
+        "municipality_id": 699,
+        "name": "Chingad",
+        "alt_name": "चिंगाड"
+    },
+    {
+        "municipality_id": 700,
+        "name": "Ramaroshan",
+        "alt_name": "रामरोशन"
+    },
+    {
+        "municipality_id": 701,
+        "name": "Chaurpati",
+        "alt_name": "चौरपाटी"
+    },
+    {
+        "municipality_id": 702,
+        "name": "Turmakhand",
+        "alt_name": "तुर्मखण्ड"
+    },
+    {
+        "municipality_id": 703,
+        "name": "Mellekh",
+        "alt_name": "मेल्लेख"
+    },
+    {
+        "municipality_id": 704,
+        "name": "Dhankari",
+        "alt_name": "धनकारी"
+    },
+    {
+        "municipality_id": 705,
+        "name": "Bannigadi Jayagad",
+        "alt_name": "बान्निगढी जयगड"
+    },
+    {
+        "municipality_id": 706,
+        "name": "Dogdakedar",
+        "alt_name": "डगडाकेदार"
+    },
+    {
+        "municipality_id": 707,
+        "name": "Dilashaini",
+        "alt_name": "डिलाशैनी"
+    },
+    {
+        "municipality_id": 708,
+        "name": "Sigas",
+        "alt_name": "सिगास"
+    },
+    {
+        "municipality_id": 709,
+        "name": "Pancheshwar",
+        "alt_name": "पञ्चेश्वर"
+    },
+    {
+        "municipality_id": 710,
+        "name": "Surnaya",
+        "alt_name": "सुर्नाया"
+    },
+    {
+        "municipality_id": 711,
+        "name": "Shivanath",
+        "alt_name": "शिवनाथ"
+    },
+    {
+        "municipality_id": 712,
+        "name": "Kedarsyu",
+        "alt_name": "केदारस्यु"
+    },
+    {
+        "municipality_id": 713,
+        "name": "Thalara",
+        "alt_name": "थालारा"
+    },
+    {
+        "municipality_id": 714,
+        "name": "Bitthadchir",
+        "alt_name": "बिठ्ठडचिर"
+    },
+    {
+        "municipality_id": 715,
+        "name": "Chhabis Pathibhera",
+        "alt_name": "छबिस पाथीभेरा"
+    },
+    {
+        "municipality_id": 716,
+        "name": "Chhanna",
+        "alt_name": "छन्ना"
+    },
+    {
+        "municipality_id": 717,
+        "name": "Masta",
+        "alt_name": "मस्त"
+    },
+    {
+        "municipality_id": 718,
+        "name": "Durgathali",
+        "alt_name": "दुर्गाथली"
+    },
+    {
+        "municipality_id": 719,
+        "name": "Talkot",
+        "alt_name": "तालकोट"
+    },
+    {
+        "municipality_id": 720,
+        "name": "Surma",
+        "alt_name": "सुर्मा"
+    },
+    {
+        "municipality_id": 721,
+        "name": "Saipal",
+        "alt_name": "साइपाल"
+    },
+    {
+        "municipality_id": 722,
+        "name": "Khaptad Chhededaha",
+        "alt_name": "खप्तड छेडेदह"
+    },
+    {
+        "municipality_id": 723,
+        "name": "Swami Kartik Khapar",
+        "alt_name": "स्वामी कार्तिक खापर"
+    },
+    {
+        "municipality_id": 724,
+        "name": "Jagannath",
+        "alt_name": "जगन्नाथ"
+    },
+    {
+        "municipality_id": 725,
+        "name": "Himali",
+        "alt_name": "हिमाली"
+    },
+    {
+        "municipality_id": 726,
+        "name": "Gaumul",
+        "alt_name": "गौमुल"
+    },
+    {
+        "municipality_id": 727,
+        "name": "Navadurga",
+        "alt_name": "नवदुर्गा"
+    },
+    {
+        "municipality_id": 728,
+        "name": "Aalitaal",
+        "alt_name": "आलिताल"
+    },
+    {
+        "municipality_id": 729,
+        "name": "Ganyapadhura",
+        "alt_name": "गन्यापधुरा"
+    },
+    {
+        "municipality_id": 730,
+        "name": "Bhageshwar",
+        "alt_name": "भागेश्वर"
+    },
+    {
+        "municipality_id": 731,
+        "name": "Ajaymeru",
+        "alt_name": "अजयमेरु"
+    },
+    {
+        "municipality_id": 732,
+        "name": "Naugad",
+        "alt_name": "नौगाड"
+    },
+    {
+        "municipality_id": 733,
+        "name": "Malikarjun",
+        "alt_name": "मलिकार्जुन"
+    },
+    {
+        "municipality_id": 734,
+        "name": "Marma",
+        "alt_name": "मर्मा"
+    },
+    {
+        "municipality_id": 735,
+        "name": "Lekam",
+        "alt_name": "लेकम"
+    },
+    {
+        "municipality_id": 736,
+        "name": "Duhu",
+        "alt_name": "दुहु"
+    },
+    {
+        "municipality_id": 737,
+        "name": "Vyans",
+        "alt_name": "व्यान्स"
+    },
+    {
+        "municipality_id": 738,
+        "name": "Api Himal",
+        "alt_name": "अपि हिमाल"
+    },
+    {
+        "municipality_id": 739,
+        "name": "Aadarsha",
+        "alt_name": "आदर्श"
+    },
+    {
+        "municipality_id": 740,
+        "name": "Purbichauki",
+        "alt_name": "पूर्वचौकी"
+    },
+    {
+        "municipality_id": 741,
+        "name": "K.I. Singh",
+        "alt_name": "K.I सिंह"
+    },
+    {
+        "municipality_id": 742,
+        "name": "Jorayal",
+        "alt_name": "जोरयाल"
+    },
+    {
+        "municipality_id": 743,
+        "name": "Sayal",
+        "alt_name": "सायल"
+    },
+    {
+        "municipality_id": 744,
+        "name": "Bogatan",
+        "alt_name": "बोगाटन"
+    },
+    {
+        "municipality_id": 745,
+        "name": "Badikedar",
+        "alt_name": "बडीकेदार"
+    },
+    {
+        "municipality_id": 746,
+        "name": "Janaki",
+        "alt_name": "जानकी"
+    },
+    {
+        "municipality_id": 747,
+        "name": "Kailari",
+        "alt_name": "कैलारी"
+    },
+    {
+        "municipality_id": 748,
+        "name": "Joshipur",
+        "alt_name": "जोशीपुर"
+    },
+    {
+        "municipality_id": 749,
+        "name": "Bargagoriya",
+        "alt_name": "बर्गागोरिया"
+    },
+    {
+        "municipality_id": 750,
+        "name": "Mohanyal",
+        "alt_name": "मोहन्याल"
+    },
+    {
+        "municipality_id": 751,
+        "name": "Chure",
+        "alt_name": "चुरे"
+    },
+    {
+        "municipality_id": 752,
+        "name": "Laljhadi",
+        "alt_name": "लालझाडी"
+    },
+    {
+        "municipality_id": 753,
+        "name": "Beldandi",
+        "alt_name": "बेलडाँडी"
+    },
+    {
+        "municipality_id": 760,
+        "name": "Budhiganga",
+        "alt_name": "बुढीगंगा"
+    },
+    {
+        "municipality_id": 761,
+        "name": "Godawari",
+        "alt_name": "गोदावरी"
+    },
+    {
+        "municipality_id": 762,
+        "name": "Belbari",
+        "alt_name": "बेलबारी"
+    },
+    {
+        "municipality_id": 763,
+        "name": "Kagashwori",
+        "alt_name": "कागेश्वरी"
+    }
+]
